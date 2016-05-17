@@ -1,0 +1,684 @@
+{
+  "version": "NIV",
+  "text": [
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "How deserted lies the city,\nonce so full of people!\nHow like a widow is she,\nwho once was great among the nations!\nShe who was queen among the provinces\nhas now become a slave.",
+          "ID": "1",
+          "comments": [
+            "This chapter is an acrostic poem, the verses of which begin with the successive letters of the Hebrew alphabet."
+          ]
+        },
+        {
+          "text": "Bitterly she weeps at night,\ntears are on her cheeks.\nAmong all her lovers\nthere is no one to comfort her.\nAll her friends have betrayed her;\nthey have become her enemies.",
+          "ID": "2"
+        },
+        {
+          "text": "After affliction and harsh labor,\nJudah has gone into exile.\nShe dwells among the nations;\nshe finds no resting place.\nAll who pursue her have overtaken her\nin the midst of her distress.",
+          "ID": "3"
+        },
+        {
+          "text": "The roads to Zion mourn,\nfor no one comes to her appointed festivals.\nAll her gateways are desolate,\nher priests groan,\nher young women grieve,\nand she is in bitter anguish.",
+          "ID": "4"
+        },
+        {
+          "text": "Her foes have become her masters;\nher enemies are at ease.\nThe Lord has brought her grief\nbecause of her many sins.\nHer children have gone into exile,\ncaptive before the foe.",
+          "ID": "5"
+        },
+        {
+          "text": "All the splendor has departed\nfrom Daughter Zion.\nHer princes are like deer\nthat find no pasture;\nin weakness they have fled\nbefore the pursuer.",
+          "ID": "6"
+        },
+        {
+          "text": "In the days of her affliction and wandering\nJerusalem remembers all the treasures\nthat were hers in days of old.\nWhen her people fell into enemy hands,\nthere was no one to help her.\nHer enemies looked at her\nand laughed at her destruction.",
+          "ID": "7"
+        },
+        {
+          "text": "Jerusalem has sinned greatly\nand so has become unclean.\nAll who honored her despise her,\nfor they have all seen her naked;\nshe herself groans\nand turns away.",
+          "ID": "8"
+        },
+        {
+          "text": "Her filthiness clung to her skirts;\nshe did not consider her future.\nHer fall was astounding;\nthere was none to comfort her.\n“Look, Lord, on my affliction,\nfor the enemy has triumphed.”",
+          "ID": "9"
+        },
+        {
+          "text": "The enemy laid hands\non all her treasures;\nshe saw pagan nations\nenter her sanctuary—\nthose you had forbidden\nto enter your assembly.",
+          "ID": "10"
+        },
+        {
+          "text": "All her people groan\nas they search for bread;\nthey barter their treasures for food\nto keep themselves alive.\n“Look, Lord, and consider,\nfor I am despised.”",
+          "ID": "11"
+        },
+        {
+          "text": "“Is it nothing to you, all you who pass by?\nLook around and see.\nIs any suffering like my suffering\nthat was inflicted on me,\nthat the Lord brought on me\nin the day of his fierce anger?",
+          "ID": "12"
+        },
+        {
+          "text": "“From on high he sent fire,\nsent it down into my bones.\nHe spread a net for my feet\nand turned me back.\nHe made me desolate,\nfaint all the day long.",
+          "ID": "13"
+        },
+        {
+          "text": "“My sins have been bound into a yoke;\nby his hands they were woven together.\nThey have been hung on my neck,\nand the Lord has sapped my strength.\nHe has given me into the hands\nof those I cannot withstand.",
+          "ID": "14",
+          "comments": [
+            "Most Hebrew manuscripts; many Hebrew manuscripts and Septuagint He kept watch over my sins"
+          ]
+        },
+        {
+          "text": "“The Lord has rejected\nall the warriors in my midst;\nhe has summoned an army against me\nto crush my young men.\nIn his winepress the Lord has trampled\nVirgin Daughter Judah.",
+          "ID": "15",
+          "comments": [
+            "Or has set a time for me / when he will"
+          ]
+        },
+        {
+          "text": "“This is why I weep\nand my eyes overflow with tears.\nNo one is near to comfort me,\nno one to restore my spirit.\nMy children are destitute\nbecause the enemy has prevailed.”",
+          "ID": "16"
+        },
+        {
+          "text": "Zion stretches out her hands,\nbut there is no one to comfort her.\nThe Lord has decreed for Jacob\nthat his neighbors become his foes;\nJerusalem has become\nan unclean thing among them.",
+          "ID": "17"
+        },
+        {
+          "text": "“The Lord is righteous,\nyet I rebelled against his command.\nListen, all you peoples;\nlook on my suffering.\nMy young men and young women\nhave gone into exile.",
+          "ID": "18"
+        },
+        {
+          "text": "“I called to my allies\nbut they betrayed me.\nMy priests and my elders\nperished in the city\nwhile they searched for food\nto keep themselves alive.",
+          "ID": "19"
+        },
+        {
+          "text": "“See, Lord, how distressed I am!\nI am in torment within,\nand in my heart I am disturbed,\nfor I have been most rebellious.\nOutside, the sword bereaves;\ninside, there is only death.",
+          "ID": "20"
+        },
+        {
+          "text": "“People have heard my groaning,\nbut there is no one to comfort me.\nAll my enemies have heard of my distress;\nthey rejoice at what you have done.\nMay you bring the day you have announced\nso they may become like me.",
+          "ID": "21"
+        },
+        {
+          "text": "“Let all their wickedness come before you;\ndeal with them\nas you have dealt with me\nbecause of all my sins.\nMy groans are many\nand my heart is faint.”",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.1",
+      "name": "Lamentations 1"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "How the Lord has covered Daughter Zion\nwith the cloud of his anger!\nHe has hurled down the splendor of Israel\nfrom heaven to earth;\nhe has not remembered his footstool\nin the day of his anger.",
+          "ID": "1",
+          "comments": [
+            "This chapter is an acrostic poem, the verses of which begin with the successive letters of the Hebrew alphabet.",
+            "Or How the Lord in his anger / has treated Daughter Zion with contempt"
+          ]
+        },
+        {
+          "text": "Without pity the Lord has swallowed up\nall the dwellings of Jacob;\nin his wrath he has torn down\nthe strongholds of Daughter Judah.\nHe has brought her kingdom and its princes\ndown to the ground in dishonor.",
+          "ID": "2"
+        },
+        {
+          "text": "In fierce anger he has cut off\nevery horn of Israel.\nHe has withdrawn his right hand\nat the approach of the enemy.\nHe has burned in Jacob like a flaming fire\nthat consumes everything around it.",
+          "ID": "3",
+          "comments": [
+            "Or off / all the strength; or every king",
+            "Horn here symbolizes strength."
+          ]
+        },
+        {
+          "text": "Like an enemy he has strung his bow;\nhis right hand is ready.\nLike a foe he has slain\nall who were pleasing to the eye;\nhe has poured out his wrath like fire\non the tent of Daughter Zion.",
+          "ID": "4"
+        },
+        {
+          "text": "The Lord is like an enemy;\nhe has swallowed up Israel.\nHe has swallowed up all her palaces\nand destroyed her strongholds.\nHe has multiplied mourning and lamentation\nfor Daughter Judah.",
+          "ID": "5"
+        },
+        {
+          "text": "He has laid waste his dwelling like a garden;\nhe has destroyed his place of meeting.\nThe Lord has made Zion forget\nher appointed festivals and her Sabbaths;\nin his fierce anger he has spurned\nboth king and priest.",
+          "ID": "6"
+        },
+        {
+          "text": "The Lord has rejected his altar\nand abandoned his sanctuary.\nHe has given the walls of her palaces\ninto the hands of the enemy;\nthey have raised a shout in the house of the Lord\nas on the day of an appointed festival.",
+          "ID": "7"
+        },
+        {
+          "text": "The Lord determined to tear down\nthe wall around Daughter Zion.\nHe stretched out a measuring line\nand did not withhold his hand from destroying.\nHe made ramparts and walls lament;\ntogether they wasted away.",
+          "ID": "8"
+        },
+        {
+          "text": "Her gates have sunk into the ground;\ntheir bars he has broken and destroyed.\nHer king and her princes are exiled among the nations,\nthe law is no more,\nand her prophets no longer find\nvisions from the Lord.",
+          "ID": "9"
+        },
+        {
+          "text": "The elders of Daughter Zion\nsit on the ground in silence;\nthey have sprinkled dust on their heads\nand put on sackcloth.\nThe young women of Jerusalem\nhave bowed their heads to the ground.",
+          "ID": "10"
+        },
+        {
+          "text": "My eyes fail from weeping,\nI am in torment within;\nmy heart is poured out on the ground\nbecause my people are destroyed,\nbecause children and infants faint\nin the streets of the city.",
+          "ID": "11"
+        },
+        {
+          "text": "They say to their mothers,\n“Where is bread and wine?”\nas they faint like the wounded\nin the streets of the city,\nas their lives ebb away\nin their mothers’ arms.",
+          "ID": "12"
+        },
+        {
+          "text": "What can I say for you?\nWith what can I compare you,\nDaughter Jerusalem?\nTo what can I liken you,\nthat I may comfort you,\nVirgin Daughter Zion?\nYour wound is as deep as the sea.\nWho can heal you?",
+          "ID": "13"
+        },
+        {
+          "text": "The visions of your prophets\nwere false and worthless;\nthey did not expose your sin\nto ward off your captivity.\nThe prophecies they gave you\nwere false and misleading.",
+          "ID": "14"
+        },
+        {
+          "text": "All who pass your way\nclap their hands at you;\nthey scoff and shake their heads\nat Daughter Jerusalem:\n“Is this the city that was called\nthe perfection of beauty,\nthe joy of the whole earth?”",
+          "ID": "15"
+        },
+        {
+          "text": "All your enemies open their mouths\nwide against you;\nthey scoff and gnash their teeth\nand say, “We have swallowed her up.\nThis is the day we have waited for;\nwe have lived to see it.”",
+          "ID": "16"
+        },
+        {
+          "text": "The Lord has done what he planned;\nhe has fulfilled his word,\nwhich he decreed long ago.\nHe has overthrown you without pity,\nhe has let the enemy gloat over you,\nhe has exalted the horn of your foes.",
+          "ID": "17",
+          "comments": [
+            "Horn here symbolizes strength."
+          ]
+        },
+        {
+          "text": "The hearts of the people\ncry out to the Lord.\nYou walls of Daughter Zion,\nlet your tears flow like a river\nday and night;\ngive yourself no relief,\nyour eyes no rest.",
+          "ID": "18"
+        },
+        {
+          "text": "Arise, cry out in the night,\nas the watches of the night begin;\npour out your heart like water\nin the presence of the Lord.\nLift up your hands to him\nfor the lives of your children,\nwho faint from hunger\nat every street corner.",
+          "ID": "19"
+        },
+        {
+          "text": "“Look, Lord, and consider:\nWhom have you ever treated like this?\nShould women eat their offspring,\nthe children they have cared for?\nShould priest and prophet be killed\nin the sanctuary of the Lord?",
+          "ID": "20"
+        },
+        {
+          "text": "“Young and old lie together\nin the dust of the streets;\nmy young men and young women\nhave fallen by the sword.\nYou have slain them in the day of your anger;\nyou have slaughtered them without pity.",
+          "ID": "21"
+        },
+        {
+          "text": "“As you summon to a feast day,\nso you summoned against me terrors on every side.\nIn the day of the Lord’s anger\nno one escaped or survived;\nthose I cared for and reared\nmy enemy has destroyed.”",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.2",
+      "name": "Lamentations 2"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "I am the man who has seen affliction\nby the rod of the Lord’s wrath.",
+          "ID": "1",
+          "comments": [
+            "This chapter is an acrostic poem; the verses of each stanza begin with the successive letters of the Hebrew alphabet, and the verses within each stanza begin with the same letter."
+          ]
+        },
+        {
+          "text": "He has driven me away and made me walk\nin darkness rather than light;",
+          "ID": "2"
+        },
+        {
+          "text": "indeed, he has turned his hand against me\nagain and again, all day long.",
+          "ID": "3"
+        },
+        {
+          "text": "He has made my skin and my flesh grow old\nand has broken my bones.",
+          "ID": "4"
+        },
+        {
+          "text": "He has besieged me and surrounded me\nwith bitterness and hardship.",
+          "ID": "5"
+        },
+        {
+          "text": "He has made me dwell in darkness\nlike those long dead.",
+          "ID": "6"
+        },
+        {
+          "text": "He has walled me in so I cannot escape;\nhe has weighed me down with chains.",
+          "ID": "7"
+        },
+        {
+          "text": "Even when I call out or cry for help,\nhe shuts out my prayer.",
+          "ID": "8"
+        },
+        {
+          "text": "He has barred my way with blocks of stone;\nhe has made my paths crooked.",
+          "ID": "9"
+        },
+        {
+          "text": "Like a bear lying in wait,\nlike a lion in hiding,",
+          "ID": "10"
+        },
+        {
+          "text": "he dragged me from the path and mangled me\nand left me without help.",
+          "ID": "11"
+        },
+        {
+          "text": "He drew his bow\nand made me the target for his arrows.",
+          "ID": "12"
+        },
+        {
+          "text": "He pierced my heart\nwith arrows from his quiver.",
+          "ID": "13"
+        },
+        {
+          "text": "I became the laughingstock of all my people;\nthey mock me in song all day long.",
+          "ID": "14"
+        },
+        {
+          "text": "He has filled me with bitter herbs\nand given me gall to drink.",
+          "ID": "15"
+        },
+        {
+          "text": "He has broken my teeth with gravel;\nhe has trampled me in the dust.",
+          "ID": "16"
+        },
+        {
+          "text": "I have been deprived of peace;\nI have forgotten what prosperity is.",
+          "ID": "17"
+        },
+        {
+          "text": "So I say, “My splendor is gone\nand all that I had hoped from the Lord.”",
+          "ID": "18"
+        },
+        {
+          "text": "I remember my affliction and my wandering,\nthe bitterness and the gall.",
+          "ID": "19"
+        },
+        {
+          "text": "I well remember them,\nand my soul is downcast within me.",
+          "ID": "20"
+        },
+        {
+          "text": "Yet this I call to mind\nand therefore I have hope:",
+          "ID": "21"
+        },
+        {
+          "text": "Because of the Lord’s great love we are not consumed,\nfor his compassions never fail.",
+          "ID": "22"
+        },
+        {
+          "text": "They are new every morning;\ngreat is your faithfulness.",
+          "ID": "23"
+        },
+        {
+          "text": "I say to myself, “The Lord is my portion;\ntherefore I will wait for him.”",
+          "ID": "24"
+        },
+        {
+          "text": "The Lord is good to those whose hope is in him,\nto the one who seeks him;",
+          "ID": "25"
+        },
+        {
+          "text": "it is good to wait quietly\nfor the salvation of the Lord.",
+          "ID": "26"
+        },
+        {
+          "text": "It is good for a man to bear the yoke\nwhile he is young.",
+          "ID": "27"
+        },
+        {
+          "text": "Let him sit alone in silence,\nfor the Lord has laid it on him.",
+          "ID": "28"
+        },
+        {
+          "text": "Let him bury his face in the dust—\nthere may yet be hope.",
+          "ID": "29"
+        },
+        {
+          "text": "Let him offer his cheek to one who would strike him,\nand let him be filled with disgrace.",
+          "ID": "30"
+        },
+        {
+          "text": "For no one is cast off\nby the Lord forever.",
+          "ID": "31"
+        },
+        {
+          "text": "Though he brings grief, he will show compassion,\nso great is his unfailing love.",
+          "ID": "32"
+        },
+        {
+          "text": "For he does not willingly bring affliction\nor grief to anyone.",
+          "ID": "33"
+        },
+        {
+          "text": "To crush underfoot\nall prisoners in the land,",
+          "ID": "34"
+        },
+        {
+          "text": "to deny people their rights\nbefore the Most High,",
+          "ID": "35"
+        },
+        {
+          "text": "to deprive them of justice—\nwould not the Lord see such things?",
+          "ID": "36"
+        },
+        {
+          "text": "Who can speak and have it happen\nif the Lord has not decreed it?",
+          "ID": "37"
+        },
+        {
+          "text": "Is it not from the mouth of the Most High\nthat both calamities and good things come?",
+          "ID": "38"
+        },
+        {
+          "text": "Why should the living complain\nwhen punished for their sins?",
+          "ID": "39"
+        },
+        {
+          "text": "Let us examine our ways and test them,\nand let us return to the Lord.",
+          "ID": "40"
+        },
+        {
+          "text": "Let us lift up our hearts and our hands\nto God in heaven, and say:",
+          "ID": "41"
+        },
+        {
+          "text": "“We have sinned and rebelled\nand you have not forgiven.",
+          "ID": "42"
+        },
+        {
+          "text": "“You have covered yourself with anger and pursued us;\nyou have slain without pity.",
+          "ID": "43"
+        },
+        {
+          "text": "You have covered yourself with a cloud\nso that no prayer can get through.",
+          "ID": "44"
+        },
+        {
+          "text": "You have made us scum and refuse\namong the nations.",
+          "ID": "45"
+        },
+        {
+          "text": "“All our enemies have opened their mouths\nwide against us.",
+          "ID": "46"
+        },
+        {
+          "text": "We have suffered terror and pitfalls,\nruin and destruction.”",
+          "ID": "47"
+        },
+        {
+          "text": "Streams of tears flow from my eyes\nbecause my people are destroyed.",
+          "ID": "48"
+        },
+        {
+          "text": "My eyes will flow unceasingly,\nwithout relief,",
+          "ID": "49"
+        },
+        {
+          "text": "until the Lord looks down\nfrom heaven and sees.",
+          "ID": "50"
+        },
+        {
+          "text": "What I see brings grief to my soul\nbecause of all the women of my city.",
+          "ID": "51"
+        },
+        {
+          "text": "Those who were my enemies without cause\nhunted me like a bird.",
+          "ID": "52"
+        },
+        {
+          "text": "They tried to end my life in a pit\nand threw stones at me;",
+          "ID": "53"
+        },
+        {
+          "text": "the waters closed over my head,\nand I thought I was about to perish.",
+          "ID": "54"
+        },
+        {
+          "text": "I called on your name, Lord,\nfrom the depths of the pit.",
+          "ID": "55"
+        },
+        {
+          "text": "You heard my plea: “Do not close your ears\nto my cry for relief.”",
+          "ID": "56"
+        },
+        {
+          "text": "You came near when I called you,\nand you said, “Do not fear.”",
+          "ID": "57"
+        },
+        {
+          "text": "You, Lord, took up my case;\nyou redeemed my life.",
+          "ID": "58"
+        },
+        {
+          "text": "Lord, you have seen the wrong done to me.\nUphold my cause!",
+          "ID": "59"
+        },
+        {
+          "text": "You have seen the depth of their vengeance,\nall their plots against me.",
+          "ID": "60"
+        },
+        {
+          "text": "Lord, you have heard their insults,\nall their plots against me—",
+          "ID": "61"
+        },
+        {
+          "text": "what my enemies whisper and mutter\nagainst me all day long.",
+          "ID": "62"
+        },
+        {
+          "text": "Look at them! Sitting or standing,\nthey mock me in their songs.",
+          "ID": "63"
+        },
+        {
+          "text": "Pay them back what they deserve, Lord,\nfor what their hands have done.",
+          "ID": "64"
+        },
+        {
+          "text": "Put a veil over their hearts,\nand may your curse be on them!",
+          "ID": "65"
+        },
+        {
+          "text": "Pursue them in anger and destroy them\nfrom under the heavens of the Lord.",
+          "ID": "66"
+        }
+      ],
+      "ID": "OT:LAM.3",
+      "name": "Lamentations 3"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "How the gold has lost its luster,\nthe fine gold become dull!\nThe sacred gems are scattered\nat every street corner.",
+          "ID": "1",
+          "comments": [
+            "This chapter is an acrostic poem, the verses of which begin with the successive letters of the Hebrew alphabet."
+          ]
+        },
+        {
+          "text": "How the precious children of Zion,\nonce worth their weight in gold,\nare now considered as pots of clay,\nthe work of a potter’s hands!",
+          "ID": "2"
+        },
+        {
+          "text": "Even jackals offer their breasts\nto nurse their young,\nbut my people have become heartless\nlike ostriches in the desert.",
+          "ID": "3"
+        },
+        {
+          "text": "Because of thirst the infant’s tongue\nsticks to the roof of its mouth;\nthe children beg for bread,\nbut no one gives it to them.",
+          "ID": "4"
+        },
+        {
+          "text": "Those who once ate delicacies\nare destitute in the streets.\nThose brought up in royal purple\nnow lie on ash heaps.",
+          "ID": "5"
+        },
+        {
+          "text": "The punishment of my people\nis greater than that of Sodom,\nwhich was overthrown in a moment\nwithout a hand turned to help her.",
+          "ID": "6"
+        },
+        {
+          "text": "Their princes were brighter than snow\nand whiter than milk,\ntheir bodies more ruddy than rubies,\ntheir appearance like lapis lazuli.",
+          "ID": "7"
+        },
+        {
+          "text": "But now they are blacker than soot;\nthey are not recognized in the streets.\nTheir skin has shriveled on their bones;\nit has become as dry as a stick.",
+          "ID": "8"
+        },
+        {
+          "text": "Those killed by the sword are better off\nthan those who die of famine;\nracked with hunger, they waste away\nfor lack of food from the field.",
+          "ID": "9"
+        },
+        {
+          "text": "With their own hands compassionate women\nhave cooked their own children,\nwho became their food\nwhen my people were destroyed.",
+          "ID": "10"
+        },
+        {
+          "text": "The Lord has given full vent to his wrath;\nhe has poured out his fierce anger.\nHe kindled a fire in Zion\nthat consumed her foundations.",
+          "ID": "11"
+        },
+        {
+          "text": "The kings of the earth did not believe,\nnor did any of the peoples of the world,\nthat enemies and foes could enter\nthe gates of Jerusalem.",
+          "ID": "12"
+        },
+        {
+          "text": "But it happened because of the sins of her prophets\nand the iniquities of her priests,\nwho shed within her\nthe blood of the righteous.",
+          "ID": "13"
+        },
+        {
+          "text": "Now they grope through the streets\nas if they were blind.\nThey are so defiled with blood\nthat no one dares to touch their garments.",
+          "ID": "14"
+        },
+        {
+          "text": "“Go away! You are unclean!” people cry to them.\n“Away! Away! Don’t touch us!”\nWhen they flee and wander about,\npeople among the nations say,\n“They can stay here no longer.”",
+          "ID": "15"
+        },
+        {
+          "text": "The Lord himself has scattered them;\nhe no longer watches over them.\nThe priests are shown no honor,\nthe elders no favor.",
+          "ID": "16"
+        },
+        {
+          "text": "Moreover, our eyes failed,\nlooking in vain for help;\nfrom our towers we watched\nfor a nation that could not save us.",
+          "ID": "17"
+        },
+        {
+          "text": "People stalked us at every step,\nso we could not walk in our streets.\nOur end was near, our days were numbered,\nfor our end had come.",
+          "ID": "18"
+        },
+        {
+          "text": "Our pursuers were swifter\nthan eagles in the sky;\nthey chased us over the mountains\nand lay in wait for us in the desert.",
+          "ID": "19"
+        },
+        {
+          "text": "The Lord’s anointed, our very life breath,\nwas caught in their traps.\nWe thought that under his shadow\nwe would live among the nations.",
+          "ID": "20"
+        },
+        {
+          "text": "Rejoice and be glad, Daughter Edom,\nyou who live in the land of Uz.\nBut to you also the cup will be passed;\nyou will be drunk and stripped naked.",
+          "ID": "21"
+        },
+        {
+          "text": "Your punishment will end, Daughter Zion;\nhe will not prolong your exile.\nBut he will punish your sin, Daughter Edom,\nand expose your wickedness.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.4",
+      "name": "Lamentations 4"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "Remember, Lord, what has happened to us;\nlook, and see our disgrace.",
+          "ID": "1"
+        },
+        {
+          "text": "Our inheritance has been turned over to strangers,\nour homes to foreigners.",
+          "ID": "2"
+        },
+        {
+          "text": "We have become fatherless,\nour mothers are widows.",
+          "ID": "3"
+        },
+        {
+          "text": "We must buy the water we drink;\nour wood can be had only at a price.",
+          "ID": "4"
+        },
+        {
+          "text": "Those who pursue us are at our heels;\nwe are weary and find no rest.",
+          "ID": "5"
+        },
+        {
+          "text": "We submitted to Egypt and Assyria\nto get enough bread.",
+          "ID": "6"
+        },
+        {
+          "text": "Our ancestors sinned and are no more,\nand we bear their punishment.",
+          "ID": "7"
+        },
+        {
+          "text": "Slaves rule over us,\nand there is no one to free us from their hands.",
+          "ID": "8"
+        },
+        {
+          "text": "We get our bread at the risk of our lives\nbecause of the sword in the desert.",
+          "ID": "9"
+        },
+        {
+          "text": "Our skin is hot as an oven,\nfeverish from hunger.",
+          "ID": "10"
+        },
+        {
+          "text": "Women have been violated in Zion,\nand virgins in the towns of Judah.",
+          "ID": "11"
+        },
+        {
+          "text": "Princes have been hung up by their hands;\nelders are shown no respect.",
+          "ID": "12"
+        },
+        {
+          "text": "Young men toil at the millstones;\nboys stagger under loads of wood.",
+          "ID": "13"
+        },
+        {
+          "text": "The elders are gone from the city gate;\nthe young men have stopped their music.",
+          "ID": "14"
+        },
+        {
+          "text": "Joy is gone from our hearts;\nour dancing has turned to mourning.",
+          "ID": "15"
+        },
+        {
+          "text": "The crown has fallen from our head.\nWoe to us, for we have sinned!",
+          "ID": "16"
+        },
+        {
+          "text": "Because of this our hearts are faint,\nbecause of these things our eyes grow dim",
+          "ID": "17"
+        },
+        {
+          "text": "for Mount Zion, which lies desolate,\nwith jackals prowling over it.",
+          "ID": "18"
+        },
+        {
+          "text": "You, Lord, reign forever;\nyour throne endures from generation to generation.",
+          "ID": "19"
+        },
+        {
+          "text": "Why do you always forget us?\nWhy do you forsake us so long?",
+          "ID": "20"
+        },
+        {
+          "text": "Restore us to yourself, Lord, that we may return;\nrenew our days as of old",
+          "ID": "21"
+        },
+        {
+          "text": "unless you have utterly rejected us\nand are angry with us beyond measure.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.5",
+      "name": "Lamentations 5"
+    }
+  ],
+  "ID": "OT:LAM(NIV)",
+  "name": "Lamentations"
+}

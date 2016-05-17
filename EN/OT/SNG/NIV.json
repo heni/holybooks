@@ -1,0 +1,586 @@
+{
+  "version": "NIV",
+  "text": [
+    {
+      "title": "He",
+      "text": [
+        {
+          "text": "Solomon’s Song of Songs.",
+          "ID": "1"
+        },
+        {
+          "text": "Let him kiss me with the kisses of his mouth—\nfor your love is more delightful than wine.",
+          "ID": "2"
+        },
+        {
+          "text": "Pleasing is the fragrance of your perfumes;\nyour name is like perfume poured out.\nNo wonder the young women love you!",
+          "ID": "3"
+        },
+        {
+          "text": "Take me away with you—let us hurry!\nLet the king bring me into his chambers.\nWe rejoice and delight in you;\nwe will praise your love more than wine.\nHow right they are to adore you!",
+          "ID": "4",
+          "comments": [
+            "The Hebrew is masculine singular."
+          ]
+        },
+        {
+          "text": "Dark am I, yet lovely,\ndaughters of Jerusalem,\ndark like the tents of Kedar,\nlike the tent curtains of Solomon.",
+          "ID": "5",
+          "comments": [
+            "Or Salma"
+          ]
+        },
+        {
+          "text": "Do not stare at me because I am dark,\nbecause I am darkened by the sun.\nMy mother’s sons were angry with me\nand made me take care of the vineyards;\nmy own vineyard I had to neglect.",
+          "ID": "6"
+        },
+        {
+          "text": "Tell me, you whom I love,\nwhere you graze your flock\nand where you rest your sheep at midday.\nWhy should I be like a veiled woman\nbeside the flocks of your friends?",
+          "ID": "7"
+        },
+        {
+          "text": "If you do not know, most beautiful of women,\nfollow the tracks of the sheep\nand graze your young goats\nby the tents of the shepherds.",
+          "ID": "8"
+        },
+        {
+          "text": "I liken you, my darling, to a mare\namong Pharaoh’s chariot horses.",
+          "ID": "9"
+        },
+        {
+          "text": "Your cheeks are beautiful with earrings,\nyour neck with strings of jewels.",
+          "ID": "10"
+        },
+        {
+          "text": "We will make you earrings of gold,\nstudded with silver.",
+          "ID": "11"
+        },
+        {
+          "text": "While the king was at his table,\nmy perfume spread its fragrance.",
+          "ID": "12"
+        },
+        {
+          "text": "My beloved is to me a sachet of myrrh\nresting between my breasts.",
+          "ID": "13"
+        },
+        {
+          "text": "My beloved is to me a cluster of henna blossoms\nfrom the vineyards of En Gedi.",
+          "ID": "14"
+        },
+        {
+          "text": "How beautiful you are, my darling!\nOh, how beautiful!\nYour eyes are doves.",
+          "ID": "15"
+        },
+        {
+          "text": "How handsome you are, my beloved!\nOh, how charming!\nAnd our bed is verdant.",
+          "ID": "16"
+        },
+        {
+          "text": "The beams of our house are cedars;\nour rafters are firs.",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:SNG.1",
+      "name": "Song of Solomon 1"
+    },
+    {
+      "title": "She",
+      "text": [
+        {
+          "text": "I am a rose of Sharon,\na lily of the valleys.",
+          "ID": "1",
+          "comments": [
+            "Probably a member of the crocus family"
+          ]
+        },
+        {
+          "text": "Like a lily among thorns\nis my darling among the young women.",
+          "ID": "2"
+        },
+        {
+          "text": "Like an apple tree among the trees of the forest\nis my beloved among the young men.\nI delight to sit in his shade,\nand his fruit is sweet to my taste.",
+          "ID": "3",
+          "comments": [
+            "Or possibly apricot; here and elsewhere in Song of Songs"
+          ]
+        },
+        {
+          "text": "Let him lead me to the banquet hall,\nand let his banner over me be love.",
+          "ID": "4"
+        },
+        {
+          "text": "Strengthen me with raisins,\nrefresh me with apples,\nfor I am faint with love.",
+          "ID": "5"
+        },
+        {
+          "text": "His left arm is under my head,\nand his right arm embraces me.",
+          "ID": "6"
+        },
+        {
+          "text": "Daughters of Jerusalem, I charge you\nby the gazelles and by the does of the field:\nDo not arouse or awaken love\nuntil it so desires.",
+          "ID": "7"
+        },
+        {
+          "text": "Listen! My beloved!\nLook! Here he comes,\nleaping across the mountains,\nbounding over the hills.",
+          "ID": "8"
+        },
+        {
+          "text": "My beloved is like a gazelle or a young stag.\nLook! There he stands behind our wall,\ngazing through the windows,\npeering through the lattice.",
+          "ID": "9"
+        },
+        {
+          "text": "My beloved spoke and said to me,\n“Arise, my darling,\nmy beautiful one, come with me.",
+          "ID": "10"
+        },
+        {
+          "text": "See! The winter is past;\nthe rains are over and gone.",
+          "ID": "11"
+        },
+        {
+          "text": "Flowers appear on the earth;\nthe season of singing has come,\nthe cooing of doves\nis heard in our land.",
+          "ID": "12"
+        },
+        {
+          "text": "The fig tree forms its early fruit;\nthe blossoming vines spread their fragrance.\nArise, come, my darling;\nmy beautiful one, come with me.”",
+          "ID": "13"
+        },
+        {
+          "text": "My dove in the clefts of the rock,\nin the hiding places on the mountainside,\nshow me your face,\nlet me hear your voice;\nfor your voice is sweet,\nand your face is lovely.",
+          "ID": "14"
+        },
+        {
+          "text": "Catch for us the foxes,\nthe little foxes\nthat ruin the vineyards,\nour vineyards that are in bloom.",
+          "ID": "15"
+        },
+        {
+          "text": "My beloved is mine and I am his;\nhe browses among the lilies.",
+          "ID": "16"
+        },
+        {
+          "text": "Until the day breaks\nand the shadows flee,\nturn, my beloved,\nand be like a gazelle\nor like a young stag\non the rugged hills.",
+          "ID": "17",
+          "comments": [
+            "Or the hills of Bether"
+          ]
+        }
+      ],
+      "ID": "OT:SNG.2",
+      "name": "Song of Solomon 2"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "All night long on my bed\nI looked for the one my heart loves;\nI looked for him but did not find him.",
+          "ID": "1"
+        },
+        {
+          "text": "I will get up now and go about the city,\nthrough its streets and squares;\nI will search for the one my heart loves.\nSo I looked for him but did not find him.",
+          "ID": "2"
+        },
+        {
+          "text": "The watchmen found me\nas they made their rounds in the city.\n“Have you seen the one my heart loves?”",
+          "ID": "3"
+        },
+        {
+          "text": "Scarcely had I passed them\nwhen I found the one my heart loves.\nI held him and would not let him go\ntill I had brought him to my mother’s house,\nto the room of the one who conceived me.",
+          "ID": "4"
+        },
+        {
+          "text": "Daughters of Jerusalem, I charge you\nby the gazelles and by the does of the field:\nDo not arouse or awaken love\nuntil it so desires.",
+          "ID": "5"
+        },
+        {
+          "text": "Who is this coming up from the wilderness\nlike a column of smoke,\nperfumed with myrrh and incense\nmade from all the spices of the merchant?",
+          "ID": "6"
+        },
+        {
+          "text": "Look! It is Solomon’s carriage,\nescorted by sixty warriors,\nthe noblest of Israel,",
+          "ID": "7"
+        },
+        {
+          "text": "all of them wearing the sword,\nall experienced in battle,\neach with his sword at his side,\nprepared for the terrors of the night.",
+          "ID": "8"
+        },
+        {
+          "text": "King Solomon made for himself the carriage;\nhe made it of wood from Lebanon.",
+          "ID": "9"
+        },
+        {
+          "text": "Its posts he made of silver,\nits base of gold.\nIts seat was upholstered with purple,\nits interior inlaid with love.\nDaughters of Jerusalem,",
+          "ID": "10"
+        },
+        {
+          "text": "come out,\nand look, you daughters of Zion.\nLook on King Solomon wearing a crown,\nthe crown with which his mother crowned him\non the day of his wedding,\nthe day his heart rejoiced.",
+          "ID": "11",
+          "comments": [
+            "Or interior lovingly inlaid / by the daughters of Jerusalem. / 11 Come out, you daughters of Zion, / and look"
+          ]
+        }
+      ],
+      "ID": "OT:SNG.3",
+      "name": "Song of Solomon 3"
+    },
+    {
+      "title": "She",
+      "text": [
+        {
+          "text": "How beautiful you are, my darling!\nOh, how beautiful!\nYour eyes behind your veil are doves.\nYour hair is like a flock of goats\ndescending from the hills of Gilead.",
+          "ID": "1"
+        },
+        {
+          "text": "Your teeth are like a flock of sheep just shorn,\ncoming up from the washing.\nEach has its twin;\nnot one of them is alone.",
+          "ID": "2"
+        },
+        {
+          "text": "Your lips are like a scarlet ribbon;\nyour mouth is lovely.\nYour temples behind your veil\nare like the halves of a pomegranate.",
+          "ID": "3"
+        },
+        {
+          "text": "Your neck is like the tower of David,\nbuilt with courses of stone;\non it hang a thousand shields,\nall of them shields of warriors.",
+          "ID": "4",
+          "comments": [
+            "The meaning of the Hebrew for this phrase is uncertain."
+          ]
+        },
+        {
+          "text": "Your breasts are like two fawns,\nlike twin fawns of a gazelle\nthat browse among the lilies.",
+          "ID": "5"
+        },
+        {
+          "text": "Until the day breaks\nand the shadows flee,\nI will go to the mountain of myrrh\nand to the hill of incense.",
+          "ID": "6"
+        },
+        {
+          "text": "You are altogether beautiful, my darling;\nthere is no flaw in you.",
+          "ID": "7"
+        },
+        {
+          "text": "Come with me from Lebanon, my bride,\ncome with me from Lebanon.\nDescend from the crest of Amana,\nfrom the top of Senir, the summit of Hermon,\nfrom the lions’ dens\nand the mountain haunts of leopards.",
+          "ID": "8"
+        },
+        {
+          "text": "You have stolen my heart, my sister, my bride;\nyou have stolen my heart\nwith one glance of your eyes,\nwith one jewel of your necklace.",
+          "ID": "9"
+        },
+        {
+          "text": "How delightful is your love, my sister, my bride!\nHow much more pleasing is your love than wine,\nand the fragrance of your perfume\nmore than any spice!",
+          "ID": "10"
+        },
+        {
+          "text": "Your lips drop sweetness as the honeycomb, my bride;\nmilk and honey are under your tongue.\nThe fragrance of your garments\nis like the fragrance of Lebanon.",
+          "ID": "11"
+        },
+        {
+          "text": "You are a garden locked up, my sister, my bride;\nyou are a spring enclosed, a sealed fountain.",
+          "ID": "12"
+        },
+        {
+          "text": "Your plants are an orchard of pomegranates\nwith choice fruits,\nwith henna and nard,",
+          "ID": "13"
+        },
+        {
+          "text": "    nard and saffron,\ncalamus and cinnamon,\nwith every kind of incense tree,\nwith myrrh and aloes\nand all the finest spices.",
+          "ID": "14"
+        },
+        {
+          "text": "You are a garden fountain,\na well of flowing water\nstreaming down from Lebanon.",
+          "ID": "15",
+          "comments": [
+            "Or I am (spoken by She)"
+          ]
+        },
+        {
+          "text": "Awake, north wind,\nand come, south wind!\nBlow on my garden,\nthat its fragrance may spread everywhere.\nLet my beloved come into his garden\nand taste its choice fruits.",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:SNG.4",
+      "name": "Song of Solomon 4"
+    },
+    {
+      "title": "She",
+      "text": [
+        {
+          "text": "I have come into my garden, my sister, my bride;\nI have gathered my myrrh with my spice.\nI have eaten my honeycomb and my honey;\nI have drunk my wine and my milk.\nEat, friends, and drink;\ndrink your fill of love.",
+          "ID": "1"
+        },
+        {
+          "text": "I slept but my heart was awake.\nListen! My beloved is knocking:\n“Open to me, my sister, my darling,\nmy dove, my flawless one.\nMy head is drenched with dew,\nmy hair with the dampness of the night.”",
+          "ID": "2"
+        },
+        {
+          "text": "I have taken off my robe—\nmust I put it on again?\nI have washed my feet—\nmust I soil them again?",
+          "ID": "3"
+        },
+        {
+          "text": "My beloved thrust his hand through the latch-opening;\nmy heart began to pound for him.",
+          "ID": "4"
+        },
+        {
+          "text": "I arose to open for my beloved,\nand my hands dripped with myrrh,\nmy fingers with flowing myrrh,\non the handles of the bolt.",
+          "ID": "5"
+        },
+        {
+          "text": "I opened for my beloved,\nbut my beloved had left; he was gone.\nMy heart sank at his departure.\nI looked for him but did not find him.\nI called him but he did not answer.",
+          "ID": "6",
+          "comments": [
+            "Or heart had gone out to him when he spoke"
+          ]
+        },
+        {
+          "text": "The watchmen found me\nas they made their rounds in the city.\nThey beat me, they bruised me;\nthey took away my cloak,\nthose watchmen of the walls!",
+          "ID": "7"
+        },
+        {
+          "text": "Daughters of Jerusalem, I charge you—\nif you find my beloved,\nwhat will you tell him?\nTell him I am faint with love.",
+          "ID": "8"
+        },
+        {
+          "text": "How is your beloved better than others,\nmost beautiful of women?\nHow is your beloved better than others,\nthat you so charge us?",
+          "ID": "9"
+        },
+        {
+          "text": "My beloved is radiant and ruddy,\noutstanding among ten thousand.",
+          "ID": "10"
+        },
+        {
+          "text": "His head is purest gold;\nhis hair is wavy\nand black as a raven.",
+          "ID": "11"
+        },
+        {
+          "text": "His eyes are like doves\nby the water streams,\nwashed in milk,\nmounted like jewels.",
+          "ID": "12"
+        },
+        {
+          "text": "His cheeks are like beds of spice\nyielding perfume.\nHis lips are like lilies\ndripping with myrrh.",
+          "ID": "13"
+        },
+        {
+          "text": "His arms are rods of gold\nset with topaz.\nHis body is like polished ivory\ndecorated with lapis lazuli.",
+          "ID": "14"
+        },
+        {
+          "text": "His legs are pillars of marble\nset on bases of pure gold.\nHis appearance is like Lebanon,\nchoice as its cedars.",
+          "ID": "15"
+        },
+        {
+          "text": "His mouth is sweetness itself;\nhe is altogether lovely.\nThis is my beloved, this is my friend,\ndaughters of Jerusalem.",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:SNG.5",
+      "name": "Song of Solomon 5"
+    },
+    {
+      "title": "He",
+      "text": [
+        {
+          "text": "Where has your beloved gone,\nmost beautiful of women?\nWhich way did your beloved turn,\nthat we may look for him with you?",
+          "ID": "1"
+        },
+        {
+          "text": "My beloved has gone down to his garden,\nto the beds of spices,\nto browse in the gardens\nand to gather lilies.",
+          "ID": "2"
+        },
+        {
+          "text": "I am my beloved’s and my beloved is mine;\nhe browses among the lilies.",
+          "ID": "3"
+        },
+        {
+          "text": "You are as beautiful as Tirzah, my darling,\nas lovely as Jerusalem,\nas majestic as troops with banners.",
+          "ID": "4"
+        },
+        {
+          "text": "Turn your eyes from me;\nthey overwhelm me.\nYour hair is like a flock of goats\ndescending from Gilead.",
+          "ID": "5"
+        },
+        {
+          "text": "Your teeth are like a flock of sheep\ncoming up from the washing.\nEach has its twin,\nnot one of them is missing.",
+          "ID": "6"
+        },
+        {
+          "text": "Your temples behind your veil\nare like the halves of a pomegranate.",
+          "ID": "7"
+        },
+        {
+          "text": "Sixty queens there may be,\nand eighty concubines,\nand virgins beyond number;",
+          "ID": "8"
+        },
+        {
+          "text": "but my dove, my perfect one, is unique,\nthe only daughter of her mother,\nthe favorite of the one who bore her.\nThe young women saw her and called her blessed;\nthe queens and concubines praised her.",
+          "ID": "9"
+        },
+        {
+          "text": "Who is this that appears like the dawn,\nfair as the moon, bright as the sun,\nmajestic as the stars in procession?",
+          "ID": "10"
+        },
+        {
+          "text": "I went down to the grove of nut trees\nto look at the new growth in the valley,\nto see if the vines had budded\nor the pomegranates were in bloom.",
+          "ID": "11"
+        },
+        {
+          "text": "Before I realized it,\nmy desire set me among the royal chariots of my people.",
+          "ID": "12",
+          "comments": [
+            "Or among the chariots of Amminadab; or among the chariots of the people of the prince"
+          ]
+        },
+        {
+          "text": "Come back, come back, O Shulammite;\ncome back, come back, that we may gaze on you!\nWhy would you gaze on the Shulammite\nas on the dance of Mahanaim?",
+          "ID": "13",
+          "comments": [
+            "In Hebrew texts this verse (6:13) is numbered 7:1."
+          ]
+        }
+      ],
+      "ID": "OT:SNG.6",
+      "name": "Song of Solomon 6"
+    },
+    {
+      "title": "She",
+      "text": [
+        {
+          "text": "How beautiful your sandaled feet,\nO prince’s daughter!\nYour graceful legs are like jewels,\nthe work of an artist’s hands.",
+          "ID": "1",
+          "comments": [
+            "In Hebrew texts 7:1-13 is numbered 7:2-14."
+          ]
+        },
+        {
+          "text": "Your navel is a rounded goblet\nthat never lacks blended wine.\nYour waist is a mound of wheat\nencircled by lilies.",
+          "ID": "2"
+        },
+        {
+          "text": "Your breasts are like two fawns,\nlike twin fawns of a gazelle.",
+          "ID": "3"
+        },
+        {
+          "text": "Your neck is like an ivory tower.\nYour eyes are the pools of Heshbon\nby the gate of Bath Rabbim.\nYour nose is like the tower of Lebanon\nlooking toward Damascus.",
+          "ID": "4"
+        },
+        {
+          "text": "Your head crowns you like Mount Carmel.\nYour hair is like royal tapestry;\nthe king is held captive by its tresses.",
+          "ID": "5"
+        },
+        {
+          "text": "How beautiful you are and how pleasing,\nmy love, with your delights!",
+          "ID": "6"
+        },
+        {
+          "text": "Your stature is like that of the palm,\nand your breasts like clusters of fruit.",
+          "ID": "7"
+        },
+        {
+          "text": "I said, “I will climb the palm tree;\nI will take hold of its fruit.”\nMay your breasts be like clusters of grapes on the vine,\nthe fragrance of your breath like apples,",
+          "ID": "8"
+        },
+        {
+          "text": "    and your mouth like the best wine.\nMay the wine go straight to my beloved,\nflowing gently over lips and teeth.",
+          "ID": "9",
+          "comments": [
+            "Septuagint, Aquila, Vulgate and Syriac; Hebrew lips of sleepers"
+          ]
+        },
+        {
+          "text": "I belong to my beloved,\nand his desire is for me.",
+          "ID": "10"
+        },
+        {
+          "text": "Come, my beloved, let us go to the countryside,\nlet us spend the night in the villages.",
+          "ID": "11",
+          "comments": [
+            "Or the henna bushes"
+          ]
+        },
+        {
+          "text": "Let us go early to the vineyards\nto see if the vines have budded,\nif their blossoms have opened,\nand if the pomegranates are in bloom—\nthere I will give you my love.",
+          "ID": "12"
+        },
+        {
+          "text": "The mandrakes send out their fragrance,\nand at our door is every delicacy,\nboth new and old,\nthat I have stored up for you, my beloved.",
+          "ID": "13"
+        }
+      ],
+      "ID": "OT:SNG.7",
+      "name": "Song of Solomon 7"
+    },
+    {
+      "title": "She",
+      "text": [
+        {
+          "text": "If only you were to me like a brother,\nwho was nursed at my mother’s breasts!\nThen, if I found you outside,\nI would kiss you,\nand no one would despise me.",
+          "ID": "1"
+        },
+        {
+          "text": "I would lead you\nand bring you to my mother’s house—\nshe who has taught me.\nI would give you spiced wine to drink,\nthe nectar of my pomegranates.",
+          "ID": "2"
+        },
+        {
+          "text": "His left arm is under my head\nand his right arm embraces me.",
+          "ID": "3"
+        },
+        {
+          "text": "Daughters of Jerusalem, I charge you:\nDo not arouse or awaken love\nuntil it so desires.",
+          "ID": "4"
+        },
+        {
+          "text": "Who is this coming up from the wilderness\nleaning on her beloved?\nUnder the apple tree I roused you;\nthere your mother conceived you,\nthere she who was in labor gave you birth.",
+          "ID": "5"
+        },
+        {
+          "text": "Place me like a seal over your heart,\nlike a seal on your arm;\nfor love is as strong as death,\nits jealousy unyielding as the grave.\nIt burns like blazing fire,\nlike a mighty flame.",
+          "ID": "6",
+          "comments": [
+            "Or ardor",
+            "Or fire, / like the very flame of the Lord"
+          ]
+        },
+        {
+          "text": "Many waters cannot quench love;\nrivers cannot sweep it away.\nIf one were to give\nall the wealth of one’s house for love,\nit would be utterly scorned.",
+          "ID": "7",
+          "comments": [
+            "Or he"
+          ]
+        },
+        {
+          "text": "We have a little sister,\nand her breasts are not yet grown.\nWhat shall we do for our sister\non the day she is spoken for?",
+          "ID": "8"
+        },
+        {
+          "text": "If she is a wall,\nwe will build towers of silver on her.\nIf she is a door,\nwe will enclose her with panels of cedar.",
+          "ID": "9"
+        },
+        {
+          "text": "I am a wall,\nand my breasts are like towers.\nThus I have become in his eyes\nlike one bringing contentment.",
+          "ID": "10"
+        },
+        {
+          "text": "Solomon had a vineyard in Baal Hamon;\nhe let out his vineyard to tenants.\nEach was to bring for its fruit\na thousand shekels of silver.",
+          "ID": "11",
+          "comments": [
+            "That is, about 25 pounds or about 12 kilograms; also in verse 12"
+          ]
+        },
+        {
+          "text": "But my own vineyard is mine to give;\nthe thousand shekels are for you, Solomon,\nand two hundred are for those who tend its fruit.",
+          "ID": "12",
+          "comments": [
+            "That is, about 5 pounds or about 2.3 kilograms"
+          ]
+        },
+        {
+          "text": "You who dwell in the gardens\nwith friends in attendance,\nlet me hear your voice!",
+          "ID": "13"
+        },
+        {
+          "text": "Come away, my beloved,\nand be like a gazelle\nor like a young stag\non the spice-laden mountains.",
+          "ID": "14"
+        }
+      ],
+      "ID": "OT:SNG.8",
+      "name": "Song of Solomon 8"
+    }
+  ],
+  "ID": "OT:SNG(NIV)",
+  "name": "Song of Solomon"
+}

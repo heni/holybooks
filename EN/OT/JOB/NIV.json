@@ -1,0 +1,4804 @@
+{
+  "version": "NIV",
+  "text": [
+    {
+      "title": "Prologue",
+      "text": [
+        {
+          "text": "In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.",
+          "ID": "1"
+        },
+        {
+          "text": "He had seven sons and three daughters,",
+          "ID": "2"
+        },
+        {
+          "text": "and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East.",
+          "ID": "3"
+        },
+        {
+          "text": "His sons used to hold feasts in their homes on their birthdays, and they would invite their three sisters to eat and drink with them.",
+          "ID": "4"
+        },
+        {
+          "text": "When a period of feasting had run its course, Job would make arrangements for them to be purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular custom.",
+          "ID": "5"
+        },
+        {
+          "text": "One day the angels came to present themselves before the Lord, and Satan also came with them.",
+          "ID": "6",
+          "comments": [
+            "Hebrew the sons of God",
+            "Hebrew satan means adversary."
+          ]
+        },
+        {
+          "text": "The Lord said to Satan, “Where have you come from?”\nSatan answered the Lord, “From roaming throughout the earth, going back and forth on it.”",
+          "ID": "7"
+        },
+        {
+          "text": "Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.”",
+          "ID": "8"
+        },
+        {
+          "text": "“Does Job fear God for nothing?” Satan replied.",
+          "ID": "9"
+        },
+        {
+          "text": "“Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land.",
+          "ID": "10"
+        },
+        {
+          "text": "But now stretch out your hand and strike everything he has, and he will surely curse you to your face.”",
+          "ID": "11"
+        },
+        {
+          "text": "The Lord said to Satan, “Very well, then, everything he has is in your power, but on the man himself do not lay a finger.”\nThen Satan went out from the presence of the Lord.",
+          "ID": "12"
+        },
+        {
+          "text": "One day when Job’s sons and daughters were feasting and drinking wine at the oldest brother’s house,",
+          "ID": "13"
+        },
+        {
+          "text": "a messenger came to Job and said, “The oxen were plowing and the donkeys were grazing nearby,",
+          "ID": "14"
+        },
+        {
+          "text": "and the Sabeans attacked and made off with them. They put the servants to the sword, and I am the only one who has escaped to tell you!”",
+          "ID": "15"
+        },
+        {
+          "text": "While he was still speaking, another messenger came and said, “The fire of God fell from the heavens and burned up the sheep and the servants, and I am the only one who has escaped to tell you!”",
+          "ID": "16"
+        },
+        {
+          "text": "While he was still speaking, another messenger came and said, “The Chaldeans formed three raiding parties and swept down on your camels and made off with them. They put the servants to the sword, and I am the only one who has escaped to tell you!”",
+          "ID": "17"
+        },
+        {
+          "text": "While he was still speaking, yet another messenger came and said, “Your sons and daughters were feasting and drinking wine at the oldest brother’s house,",
+          "ID": "18"
+        },
+        {
+          "text": "when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on them and they are dead, and I am the only one who has escaped to tell you!”",
+          "ID": "19"
+        },
+        {
+          "text": "At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship",
+          "ID": "20"
+        },
+        {
+          "text": "and said:\n“Naked I came from my mother’s womb,\nand naked I will depart.\nThe Lord gave and the Lord has taken away;\nmay the name of the Lord be praised.”",
+          "ID": "21",
+          "comments": [
+            "Or will return there"
+          ]
+        },
+        {
+          "text": "In all this, Job did not sin by charging God with wrongdoing.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:JOB.1",
+      "name": "Job 1"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "On another day the angels came to present themselves before the Lord, and Satan also came with them to present himself before him.",
+          "ID": "1",
+          "comments": [
+            "Hebrew the sons of God"
+          ]
+        },
+        {
+          "text": "And the Lord said to Satan, “Where have you come from?”\nSatan answered the Lord, “From roaming throughout the earth, going back and forth on it.”",
+          "ID": "2"
+        },
+        {
+          "text": "Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.”",
+          "ID": "3"
+        },
+        {
+          "text": "“Skin for skin!” Satan replied. “A man will give all he has for his own life.",
+          "ID": "4"
+        },
+        {
+          "text": "But now stretch out your hand and strike his flesh and bones, and he will surely curse you to your face.”",
+          "ID": "5"
+        },
+        {
+          "text": "The Lord said to Satan, “Very well, then, he is in your hands; but you must spare his life.”",
+          "ID": "6"
+        },
+        {
+          "text": "So Satan went out from the presence of the Lord and afflicted Job with painful sores from the soles of his feet to the crown of his head.",
+          "ID": "7"
+        },
+        {
+          "text": "Then Job took a piece of broken pottery and scraped himself with it as he sat among the ashes.",
+          "ID": "8"
+        },
+        {
+          "text": "His wife said to him, “Are you still maintaining your integrity? Curse God and die!”",
+          "ID": "9"
+        },
+        {
+          "text": "He replied, “You are talking like a foolish woman. Shall we accept good from God, and not trouble?”\nIn all this, Job did not sin in what he said.",
+          "ID": "10",
+          "comments": [
+            "The Hebrew word rendered foolish denotes moral deficiency."
+          ]
+        },
+        {
+          "text": "When Job’s three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him.",
+          "ID": "11"
+        },
+        {
+          "text": "When they saw him from a distance, they could hardly recognize him; they began to weep aloud, and they tore their robes and sprinkled dust on their heads.",
+          "ID": "12"
+        },
+        {
+          "text": "Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was.",
+          "ID": "13"
+        }
+      ],
+      "ID": "OT:JOB.2",
+      "name": "Job 2"
+    },
+    {
+      "title": "Job Speaks",
+      "text": [
+        {
+          "text": "After this, Job opened his mouth and cursed the day of his birth.",
+          "ID": "1"
+        },
+        {
+          "text": "He said:",
+          "ID": "2"
+        },
+        {
+          "text": "“May the day of my birth perish,\nand the night that said, ‘A boy is conceived!’",
+          "ID": "3"
+        },
+        {
+          "text": "That day—may it turn to darkness;\nmay God above not care about it;\nmay no light shine on it.",
+          "ID": "4"
+        },
+        {
+          "text": "May gloom and utter darkness claim it once more;\nmay a cloud settle over it;\nmay blackness overwhelm it.",
+          "ID": "5"
+        },
+        {
+          "text": "That night—may thick darkness seize it;\nmay it not be included among the days of the year\nnor be entered in any of the months.",
+          "ID": "6"
+        },
+        {
+          "text": "May that night be barren;\nmay no shout of joy be heard in it.",
+          "ID": "7"
+        },
+        {
+          "text": "May those who curse days curse that day,\nthose who are ready to rouse Leviathan.",
+          "ID": "8",
+          "comments": [
+            "Or curse the sea"
+          ]
+        },
+        {
+          "text": "May its morning stars become dark;\nmay it wait for daylight in vain\nand not see the first rays of dawn,",
+          "ID": "9"
+        },
+        {
+          "text": "for it did not shut the doors of the womb on me\nto hide trouble from my eyes.",
+          "ID": "10"
+        },
+        {
+          "text": "“Why did I not perish at birth,\nand die as I came from the womb?",
+          "ID": "11"
+        },
+        {
+          "text": "Why were there knees to receive me\nand breasts that I might be nursed?",
+          "ID": "12"
+        },
+        {
+          "text": "For now I would be lying down in peace;\nI would be asleep and at rest",
+          "ID": "13"
+        },
+        {
+          "text": "with kings and rulers of the earth,\nwho built for themselves places now lying in ruins,",
+          "ID": "14"
+        },
+        {
+          "text": "with princes who had gold,\nwho filled their houses with silver.",
+          "ID": "15"
+        },
+        {
+          "text": "Or why was I not hidden away in the ground like a stillborn child,\nlike an infant who never saw the light of day?",
+          "ID": "16"
+        },
+        {
+          "text": "There the wicked cease from turmoil,\nand there the weary are at rest.",
+          "ID": "17"
+        },
+        {
+          "text": "Captives also enjoy their ease;\nthey no longer hear the slave driver’s shout.",
+          "ID": "18"
+        },
+        {
+          "text": "The small and the great are there,\nand the slaves are freed from their owners.",
+          "ID": "19"
+        },
+        {
+          "text": "“Why is light given to those in misery,\nand life to the bitter of soul,",
+          "ID": "20"
+        },
+        {
+          "text": "to those who long for death that does not come,\nwho search for it more than for hidden treasure,",
+          "ID": "21"
+        },
+        {
+          "text": "who are filled with gladness\nand rejoice when they reach the grave?",
+          "ID": "22"
+        },
+        {
+          "text": "Why is life given to a man\nwhose way is hidden,\nwhom God has hedged in?",
+          "ID": "23"
+        },
+        {
+          "text": "For sighing has become my daily food;\nmy groans pour out like water.",
+          "ID": "24"
+        },
+        {
+          "text": "What I feared has come upon me;\nwhat I dreaded has happened to me.",
+          "ID": "25"
+        },
+        {
+          "text": "I have no peace, no quietness;\nI have no rest, but only turmoil.”",
+          "ID": "26"
+        }
+      ],
+      "ID": "OT:JOB.3",
+      "name": "Job 3"
+    },
+    {
+      "title": "Eliphaz",
+      "text": [
+        {
+          "text": "Then Eliphaz the Temanite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“If someone ventures a word with you, will you be impatient?\nBut who can keep from speaking?",
+          "ID": "2"
+        },
+        {
+          "text": "Think how you have instructed many,\nhow you have strengthened feeble hands.",
+          "ID": "3"
+        },
+        {
+          "text": "Your words have supported those who stumbled;\nyou have strengthened faltering knees.",
+          "ID": "4"
+        },
+        {
+          "text": "But now trouble comes to you, and you are discouraged;\nit strikes you, and you are dismayed.",
+          "ID": "5"
+        },
+        {
+          "text": "Should not your piety be your confidence\nand your blameless ways your hope?",
+          "ID": "6"
+        },
+        {
+          "text": "“Consider now: Who, being innocent, has ever perished?\nWhere were the upright ever destroyed?",
+          "ID": "7"
+        },
+        {
+          "text": "As I have observed, those who plow evil\nand those who sow trouble reap it.",
+          "ID": "8"
+        },
+        {
+          "text": "At the breath of God they perish;\nat the blast of his anger they are no more.",
+          "ID": "9"
+        },
+        {
+          "text": "The lions may roar and growl,\nyet the teeth of the great lions are broken.",
+          "ID": "10"
+        },
+        {
+          "text": "The lion perishes for lack of prey,\nand the cubs of the lioness are scattered.",
+          "ID": "11"
+        },
+        {
+          "text": "“A word was secretly brought to me,\nmy ears caught a whisper of it.",
+          "ID": "12"
+        },
+        {
+          "text": "Amid disquieting dreams in the night,\nwhen deep sleep falls on people,",
+          "ID": "13"
+        },
+        {
+          "text": "fear and trembling seized me\nand made all my bones shake.",
+          "ID": "14"
+        },
+        {
+          "text": "A spirit glided past my face,\nand the hair on my body stood on end.",
+          "ID": "15"
+        },
+        {
+          "text": "It stopped,\nbut I could not tell what it was.\nA form stood before my eyes,\nand I heard a hushed voice:",
+          "ID": "16"
+        },
+        {
+          "text": "‘Can a mortal be more righteous than God?\nCan even a strong man be more pure than his Maker?",
+          "ID": "17"
+        },
+        {
+          "text": "If God places no trust in his servants,\nif he charges his angels with error,",
+          "ID": "18"
+        },
+        {
+          "text": "how much more those who live in houses of clay,\nwhose foundations are in the dust,\nwho are crushed more readily than a moth!",
+          "ID": "19"
+        },
+        {
+          "text": "Between dawn and dusk they are broken to pieces;\nunnoticed, they perish forever.",
+          "ID": "20"
+        },
+        {
+          "text": "Are not the cords of their tent pulled up,\nso that they die without wisdom?’",
+          "ID": "21"
+        }
+      ],
+      "ID": "OT:JOB.4",
+      "name": "Job 4"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“Call if you will, but who will answer you?\nTo which of the holy ones will you turn?",
+          "ID": "1"
+        },
+        {
+          "text": "Resentment kills a fool,\nand envy slays the simple.",
+          "ID": "2"
+        },
+        {
+          "text": "I myself have seen a fool taking root,\nbut suddenly his house was cursed.",
+          "ID": "3"
+        },
+        {
+          "text": "His children are far from safety,\ncrushed in court without a defender.",
+          "ID": "4"
+        },
+        {
+          "text": "The hungry consume his harvest,\ntaking it even from among thorns,\nand the thirsty pant after his wealth.",
+          "ID": "5"
+        },
+        {
+          "text": "For hardship does not spring from the soil,\nnor does trouble sprout from the ground.",
+          "ID": "6"
+        },
+        {
+          "text": "Yet man is born to trouble\nas surely as sparks fly upward.",
+          "ID": "7"
+        },
+        {
+          "text": "“But if I were you, I would appeal to God;\nI would lay my cause before him.",
+          "ID": "8"
+        },
+        {
+          "text": "He performs wonders that cannot be fathomed,\nmiracles that cannot be counted.",
+          "ID": "9"
+        },
+        {
+          "text": "He provides rain for the earth;\nhe sends water on the countryside.",
+          "ID": "10"
+        },
+        {
+          "text": "The lowly he sets on high,\nand those who mourn are lifted to safety.",
+          "ID": "11"
+        },
+        {
+          "text": "He thwarts the plans of the crafty,\nso that their hands achieve no success.",
+          "ID": "12"
+        },
+        {
+          "text": "He catches the wise in their craftiness,\nand the schemes of the wily are swept away.",
+          "ID": "13"
+        },
+        {
+          "text": "Darkness comes upon them in the daytime;\nat noon they grope as in the night.",
+          "ID": "14"
+        },
+        {
+          "text": "He saves the needy from the sword in their mouth;\nhe saves them from the clutches of the powerful.",
+          "ID": "15"
+        },
+        {
+          "text": "So the poor have hope,\nand injustice shuts its mouth.",
+          "ID": "16"
+        },
+        {
+          "text": "“Blessed is the one whom God corrects;\nso do not despise the discipline of the Almighty.",
+          "ID": "17",
+          "comments": [
+            "Hebrew Shaddai; here and throughout Job"
+          ]
+        },
+        {
+          "text": "For he wounds, but he also binds up;\nhe injures, but his hands also heal.",
+          "ID": "18"
+        },
+        {
+          "text": "From six calamities he will rescue you;\nin seven no harm will touch you.",
+          "ID": "19"
+        },
+        {
+          "text": "In famine he will deliver you from death,\nand in battle from the stroke of the sword.",
+          "ID": "20"
+        },
+        {
+          "text": "You will be protected from the lash of the tongue,\nand need not fear when destruction comes.",
+          "ID": "21"
+        },
+        {
+          "text": "You will laugh at destruction and famine,\nand need not fear the wild animals.",
+          "ID": "22"
+        },
+        {
+          "text": "For you will have a covenant with the stones of the field,\nand the wild animals will be at peace with you.",
+          "ID": "23"
+        },
+        {
+          "text": "You will know that your tent is secure;\nyou will take stock of your property and find nothing missing.",
+          "ID": "24"
+        },
+        {
+          "text": "You will know that your children will be many,\nand your descendants like the grass of the earth.",
+          "ID": "25"
+        },
+        {
+          "text": "You will come to the grave in full vigor,\nlike sheaves gathered in season.",
+          "ID": "26"
+        },
+        {
+          "text": "“We have examined this, and it is true.\nSo hear it and apply it to yourself.”",
+          "ID": "27"
+        }
+      ],
+      "ID": "OT:JOB.5",
+      "name": "Job 5"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“If only my anguish could be weighed\nand all my misery be placed on the scales!",
+          "ID": "2"
+        },
+        {
+          "text": "It would surely outweigh the sand of the seas—\nno wonder my words have been impetuous.",
+          "ID": "3"
+        },
+        {
+          "text": "The arrows of the Almighty are in me,\nmy spirit drinks in their poison;\nGod’s terrors are marshaled against me.",
+          "ID": "4"
+        },
+        {
+          "text": "Does a wild donkey bray when it has grass,\nor an ox bellow when it has fodder?",
+          "ID": "5"
+        },
+        {
+          "text": "Is tasteless food eaten without salt,\nor is there flavor in the sap of the mallow?",
+          "ID": "6",
+          "comments": [
+            "The meaning of the Hebrew for this phrase is uncertain."
+          ]
+        },
+        {
+          "text": "I refuse to touch it;\nsuch food makes me ill.",
+          "ID": "7"
+        },
+        {
+          "text": "“Oh, that I might have my request,\nthat God would grant what I hope for,",
+          "ID": "8"
+        },
+        {
+          "text": "that God would be willing to crush me,\nto let loose his hand and cut off my life!",
+          "ID": "9"
+        },
+        {
+          "text": "Then I would still have this consolation—\nmy joy in unrelenting pain—\nthat I had not denied the words of the Holy One.",
+          "ID": "10"
+        },
+        {
+          "text": "“What strength do I have, that I should still hope?\nWhat prospects, that I should be patient?",
+          "ID": "11"
+        },
+        {
+          "text": "Do I have the strength of stone?\nIs my flesh bronze?",
+          "ID": "12"
+        },
+        {
+          "text": "Do I have any power to help myself,\nnow that success has been driven from me?",
+          "ID": "13"
+        },
+        {
+          "text": "“Anyone who withholds kindness from a friend\nforsakes the fear of the Almighty.",
+          "ID": "14"
+        },
+        {
+          "text": "But my brothers are as undependable as intermittent streams,\nas the streams that overflow",
+          "ID": "15"
+        },
+        {
+          "text": "when darkened by thawing ice\nand swollen with melting snow,",
+          "ID": "16"
+        },
+        {
+          "text": "but that stop flowing in the dry season,\nand in the heat vanish from their channels.",
+          "ID": "17"
+        },
+        {
+          "text": "Caravans turn aside from their routes;\nthey go off into the wasteland and perish.",
+          "ID": "18"
+        },
+        {
+          "text": "The caravans of Tema look for water,\nthe traveling merchants of Sheba look in hope.",
+          "ID": "19"
+        },
+        {
+          "text": "They are distressed, because they had been confident;\nthey arrive there, only to be disappointed.",
+          "ID": "20"
+        },
+        {
+          "text": "Now you too have proved to be of no help;\nyou see something dreadful and are afraid.",
+          "ID": "21"
+        },
+        {
+          "text": "Have I ever said, ‘Give something on my behalf,\npay a ransom for me from your wealth,",
+          "ID": "22"
+        },
+        {
+          "text": "deliver me from the hand of the enemy,\nrescue me from the clutches of the ruthless’?",
+          "ID": "23"
+        },
+        {
+          "text": "“Teach me, and I will be quiet;\nshow me where I have been wrong.",
+          "ID": "24"
+        },
+        {
+          "text": "How painful are honest words!\nBut what do your arguments prove?",
+          "ID": "25"
+        },
+        {
+          "text": "Do you mean to correct what I say,\nand treat my desperate words as wind?",
+          "ID": "26"
+        },
+        {
+          "text": "You would even cast lots for the fatherless\nand barter away your friend.",
+          "ID": "27"
+        },
+        {
+          "text": "“But now be so kind as to look at me.\nWould I lie to your face?",
+          "ID": "28"
+        },
+        {
+          "text": "Relent, do not be unjust;\nreconsider, for my integrity is at stake.",
+          "ID": "29",
+          "comments": [
+            "Or my righteousness still stands"
+          ]
+        },
+        {
+          "text": "Is there any wickedness on my lips?\nCan my mouth not discern malice?",
+          "ID": "30"
+        }
+      ],
+      "ID": "OT:JOB.6",
+      "name": "Job 6"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“Do not mortals have hard service on earth?\nAre not their days like those of hired laborers?",
+          "ID": "1"
+        },
+        {
+          "text": "Like a slave longing for the evening shadows,\nor a hired laborer waiting to be paid,",
+          "ID": "2"
+        },
+        {
+          "text": "so I have been allotted months of futility,\nand nights of misery have been assigned to me.",
+          "ID": "3"
+        },
+        {
+          "text": "When I lie down I think, ‘How long before I get up?’\nThe night drags on, and I toss and turn until dawn.",
+          "ID": "4"
+        },
+        {
+          "text": "My body is clothed with worms and scabs,\nmy skin is broken and festering.",
+          "ID": "5"
+        },
+        {
+          "text": "“My days are swifter than a weaver’s shuttle,\nand they come to an end without hope.",
+          "ID": "6"
+        },
+        {
+          "text": "Remember, O God, that my life is but a breath;\nmy eyes will never see happiness again.",
+          "ID": "7"
+        },
+        {
+          "text": "The eye that now sees me will see me no longer;\nyou will look for me, but I will be no more.",
+          "ID": "8"
+        },
+        {
+          "text": "As a cloud vanishes and is gone,\nso one who goes down to the grave does not return.",
+          "ID": "9"
+        },
+        {
+          "text": "He will never come to his house again;\nhis place will know him no more.",
+          "ID": "10"
+        },
+        {
+          "text": "“Therefore I will not keep silent;\nI will speak out in the anguish of my spirit,\nI will complain in the bitterness of my soul.",
+          "ID": "11"
+        },
+        {
+          "text": "Am I the sea, or the monster of the deep,\nthat you put me under guard?",
+          "ID": "12"
+        },
+        {
+          "text": "When I think my bed will comfort me\nand my couch will ease my complaint,",
+          "ID": "13"
+        },
+        {
+          "text": "even then you frighten me with dreams\nand terrify me with visions,",
+          "ID": "14"
+        },
+        {
+          "text": "so that I prefer strangling and death,\nrather than this body of mine.",
+          "ID": "15"
+        },
+        {
+          "text": "I despise my life; I would not live forever.\nLet me alone; my days have no meaning.",
+          "ID": "16"
+        },
+        {
+          "text": "“What is mankind that you make so much of them,\nthat you give them so much attention,",
+          "ID": "17"
+        },
+        {
+          "text": "that you examine them every morning\nand test them every moment?",
+          "ID": "18"
+        },
+        {
+          "text": "Will you never look away from me,\nor let me alone even for an instant?",
+          "ID": "19"
+        },
+        {
+          "text": "If I have sinned, what have I done to you,\nyou who see everything we do?\nWhy have you made me your target?\nHave I become a burden to you?",
+          "ID": "20",
+          "comments": [
+            "A few manuscripts of the Masoretic Text, an ancient Hebrew scribal tradition and Septuagint; most manuscripts of the Masoretic Text I have become a burden to myself."
+          ]
+        },
+        {
+          "text": "Why do you not pardon my offenses\nand forgive my sins?\nFor I will soon lie down in the dust;\nyou will search for me, but I will be no more.”",
+          "ID": "21"
+        }
+      ],
+      "ID": "OT:JOB.7",
+      "name": "Job 7"
+    },
+    {
+      "title": "Bildad",
+      "text": [
+        {
+          "text": "Then Bildad the Shuhite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“How long will you say such things?\nYour words are a blustering wind.",
+          "ID": "2"
+        },
+        {
+          "text": "Does God pervert justice?\nDoes the Almighty pervert what is right?",
+          "ID": "3"
+        },
+        {
+          "text": "When your children sinned against him,\nhe gave them over to the penalty of their sin.",
+          "ID": "4"
+        },
+        {
+          "text": "But if you will seek God earnestly\nand plead with the Almighty,",
+          "ID": "5"
+        },
+        {
+          "text": "if you are pure and upright,\neven now he will rouse himself on your behalf\nand restore you to your prosperous state.",
+          "ID": "6"
+        },
+        {
+          "text": "Your beginnings will seem humble,\nso prosperous will your future be.",
+          "ID": "7"
+        },
+        {
+          "text": "“Ask the former generation\nand find out what their ancestors learned,",
+          "ID": "8"
+        },
+        {
+          "text": "for we were born only yesterday and know nothing,\nand our days on earth are but a shadow.",
+          "ID": "9"
+        },
+        {
+          "text": "Will they not instruct you and tell you?\nWill they not bring forth words from their understanding?",
+          "ID": "10"
+        },
+        {
+          "text": "Can papyrus grow tall where there is no marsh?\nCan reeds thrive without water?",
+          "ID": "11"
+        },
+        {
+          "text": "While still growing and uncut,\nthey wither more quickly than grass.",
+          "ID": "12"
+        },
+        {
+          "text": "Such is the destiny of all who forget God;\nso perishes the hope of the godless.",
+          "ID": "13"
+        },
+        {
+          "text": "What they trust in is fragile;\nwhat they rely on is a spider’s web.",
+          "ID": "14",
+          "comments": [
+            "The meaning of the Hebrew for this word is uncertain."
+          ]
+        },
+        {
+          "text": "They lean on the web, but it gives way;\nthey cling to it, but it does not hold.",
+          "ID": "15"
+        },
+        {
+          "text": "They are like a well-watered plant in the sunshine,\nspreading its shoots over the garden;",
+          "ID": "16"
+        },
+        {
+          "text": "it entwines its roots around a pile of rocks\nand looks for a place among the stones.",
+          "ID": "17"
+        },
+        {
+          "text": "But when it is torn from its spot,\nthat place disowns it and says, ‘I never saw you.’",
+          "ID": "18"
+        },
+        {
+          "text": "Surely its life withers away,\nand from the soil other plants grow.",
+          "ID": "19",
+          "comments": [
+            "Or Surely all the joy it has / is that"
+          ]
+        },
+        {
+          "text": "“Surely God does not reject one who is blameless\nor strengthen the hands of evildoers.",
+          "ID": "20"
+        },
+        {
+          "text": "He will yet fill your mouth with laughter\nand your lips with shouts of joy.",
+          "ID": "21"
+        },
+        {
+          "text": "Your enemies will be clothed in shame,\nand the tents of the wicked will be no more.”",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:JOB.8",
+      "name": "Job 8"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Indeed, I know that this is true.\nBut how can mere mortals prove their innocence before God?",
+          "ID": "2"
+        },
+        {
+          "text": "Though they wished to dispute with him,\nthey could not answer him one time out of a thousand.",
+          "ID": "3"
+        },
+        {
+          "text": "His wisdom is profound, his power is vast.\nWho has resisted him and come out unscathed?",
+          "ID": "4"
+        },
+        {
+          "text": "He moves mountains without their knowing it\nand overturns them in his anger.",
+          "ID": "5"
+        },
+        {
+          "text": "He shakes the earth from its place\nand makes its pillars tremble.",
+          "ID": "6"
+        },
+        {
+          "text": "He speaks to the sun and it does not shine;\nhe seals off the light of the stars.",
+          "ID": "7"
+        },
+        {
+          "text": "He alone stretches out the heavens\nand treads on the waves of the sea.",
+          "ID": "8"
+        },
+        {
+          "text": "He is the Maker of the Bear and Orion,\nthe Pleiades and the constellations of the south.",
+          "ID": "9",
+          "comments": [
+            "Or of Leo"
+          ]
+        },
+        {
+          "text": "He performs wonders that cannot be fathomed,\nmiracles that cannot be counted.",
+          "ID": "10"
+        },
+        {
+          "text": "When he passes me, I cannot see him;\nwhen he goes by, I cannot perceive him.",
+          "ID": "11"
+        },
+        {
+          "text": "If he snatches away, who can stop him?\nWho can say to him, ‘What are you doing?’",
+          "ID": "12"
+        },
+        {
+          "text": "God does not restrain his anger;\neven the cohorts of Rahab cowered at his feet.",
+          "ID": "13"
+        },
+        {
+          "text": "“How then can I dispute with him?\nHow can I find words to argue with him?",
+          "ID": "14"
+        },
+        {
+          "text": "Though I were innocent, I could not answer him;\nI could only plead with my Judge for mercy.",
+          "ID": "15"
+        },
+        {
+          "text": "Even if I summoned him and he responded,\nI do not believe he would give me a hearing.",
+          "ID": "16"
+        },
+        {
+          "text": "He would crush me with a storm\nand multiply my wounds for no reason.",
+          "ID": "17"
+        },
+        {
+          "text": "He would not let me catch my breath\nbut would overwhelm me with misery.",
+          "ID": "18"
+        },
+        {
+          "text": "If it is a matter of strength, he is mighty!\nAnd if it is a matter of justice, who can challenge him?",
+          "ID": "19",
+          "comments": [
+            "See Septuagint; Hebrew me."
+          ]
+        },
+        {
+          "text": "Even if I were innocent, my mouth would condemn me;\nif I were blameless, it would pronounce me guilty.",
+          "ID": "20"
+        },
+        {
+          "text": "“Although I am blameless,\nI have no concern for myself;\nI despise my own life.",
+          "ID": "21"
+        },
+        {
+          "text": "It is all the same; that is why I say,\n‘He destroys both the blameless and the wicked.’",
+          "ID": "22"
+        },
+        {
+          "text": "When a scourge brings sudden death,\nhe mocks the despair of the innocent.",
+          "ID": "23"
+        },
+        {
+          "text": "When a land falls into the hands of the wicked,\nhe blindfolds its judges.\nIf it is not he, then who is it?",
+          "ID": "24"
+        },
+        {
+          "text": "“My days are swifter than a runner;\nthey fly away without a glimpse of joy.",
+          "ID": "25"
+        },
+        {
+          "text": "They skim past like boats of papyrus,\nlike eagles swooping down on their prey.",
+          "ID": "26"
+        },
+        {
+          "text": "If I say, ‘I will forget my complaint,\nI will change my expression, and smile,’",
+          "ID": "27"
+        },
+        {
+          "text": "I still dread all my sufferings,\nfor I know you will not hold me innocent.",
+          "ID": "28"
+        },
+        {
+          "text": "Since I am already found guilty,\nwhy should I struggle in vain?",
+          "ID": "29"
+        },
+        {
+          "text": "Even if I washed myself with soap\nand my hands with cleansing powder,",
+          "ID": "30"
+        },
+        {
+          "text": "you would plunge me into a slime pit\nso that even my clothes would detest me.",
+          "ID": "31"
+        },
+        {
+          "text": "“He is not a mere mortal like me that I might answer him,\nthat we might confront each other in court.",
+          "ID": "32"
+        },
+        {
+          "text": "If only there were someone to mediate between us,\nsomeone to bring us together,",
+          "ID": "33"
+        },
+        {
+          "text": "someone to remove God’s rod from me,\nso that his terror would frighten me no more.",
+          "ID": "34"
+        },
+        {
+          "text": "Then I would speak up without fear of him,\nbut as it now stands with me, I cannot.",
+          "ID": "35"
+        }
+      ],
+      "ID": "OT:JOB.9",
+      "name": "Job 9"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“I loathe my very life;\ntherefore I will give free rein to my complaint\nand speak out in the bitterness of my soul.",
+          "ID": "1"
+        },
+        {
+          "text": "I say to God: Do not declare me guilty,\nbut tell me what charges you have against me.",
+          "ID": "2"
+        },
+        {
+          "text": "Does it please you to oppress me,\nto spurn the work of your hands,\nwhile you smile on the plans of the wicked?",
+          "ID": "3"
+        },
+        {
+          "text": "Do you have eyes of flesh?\nDo you see as a mortal sees?",
+          "ID": "4"
+        },
+        {
+          "text": "Are your days like those of a mortal\nor your years like those of a strong man,",
+          "ID": "5"
+        },
+        {
+          "text": "that you must search out my faults\nand probe after my sin—",
+          "ID": "6"
+        },
+        {
+          "text": "though you know that I am not guilty\nand that no one can rescue me from your hand?",
+          "ID": "7"
+        },
+        {
+          "text": "“Your hands shaped me and made me.\nWill you now turn and destroy me?",
+          "ID": "8"
+        },
+        {
+          "text": "Remember that you molded me like clay.\nWill you now turn me to dust again?",
+          "ID": "9"
+        },
+        {
+          "text": "Did you not pour me out like milk\nand curdle me like cheese,",
+          "ID": "10"
+        },
+        {
+          "text": "clothe me with skin and flesh\nand knit me together with bones and sinews?",
+          "ID": "11"
+        },
+        {
+          "text": "You gave me life and showed me kindness,\nand in your providence watched over my spirit.",
+          "ID": "12"
+        },
+        {
+          "text": "“But this is what you concealed in your heart,\nand I know that this was in your mind:",
+          "ID": "13"
+        },
+        {
+          "text": "If I sinned, you would be watching me\nand would not let my offense go unpunished.",
+          "ID": "14"
+        },
+        {
+          "text": "If I am guilty—woe to me!\nEven if I am innocent, I cannot lift my head,\nfor I am full of shame\nand drowned in my affliction.",
+          "ID": "15",
+          "comments": [
+            "Or and aware of"
+          ]
+        },
+        {
+          "text": "If I hold my head high, you stalk me like a lion\nand again display your awesome power against me.",
+          "ID": "16"
+        },
+        {
+          "text": "You bring new witnesses against me\nand increase your anger toward me;\nyour forces come against me wave upon wave.",
+          "ID": "17"
+        },
+        {
+          "text": "“Why then did you bring me out of the womb?\nI wish I had died before any eye saw me.",
+          "ID": "18"
+        },
+        {
+          "text": "If only I had never come into being,\nor had been carried straight from the womb to the grave!",
+          "ID": "19"
+        },
+        {
+          "text": "Are not my few days almost over?\nTurn away from me so I can have a moment’s joy",
+          "ID": "20"
+        },
+        {
+          "text": "before I go to the place of no return,\nto the land of gloom and utter darkness,",
+          "ID": "21"
+        },
+        {
+          "text": "to the land of deepest night,\nof utter darkness and disorder,\nwhere even the light is like darkness.”",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:JOB.10",
+      "name": "Job 10"
+    },
+    {
+      "title": "Zophar",
+      "text": [
+        {
+          "text": "Then Zophar the Naamathite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Are all these words to go unanswered?\nIs this talker to be vindicated?",
+          "ID": "2"
+        },
+        {
+          "text": "Will your idle talk reduce others to silence?\nWill no one rebuke you when you mock?",
+          "ID": "3"
+        },
+        {
+          "text": "You say to God, ‘My beliefs are flawless\nand I am pure in your sight.’",
+          "ID": "4"
+        },
+        {
+          "text": "Oh, how I wish that God would speak,\nthat he would open his lips against you",
+          "ID": "5"
+        },
+        {
+          "text": "and disclose to you the secrets of wisdom,\nfor true wisdom has two sides.\nKnow this: God has even forgotten some of your sin.",
+          "ID": "6"
+        },
+        {
+          "text": "“Can you fathom the mysteries of God?\nCan you probe the limits of the Almighty?",
+          "ID": "7"
+        },
+        {
+          "text": "They are higher than the heavens above—what can you do?\nThey are deeper than the depths below—what can you know?",
+          "ID": "8"
+        },
+        {
+          "text": "Their measure is longer than the earth\nand wider than the sea.",
+          "ID": "9"
+        },
+        {
+          "text": "“If he comes along and confines you in prison\nand convenes a court, who can oppose him?",
+          "ID": "10"
+        },
+        {
+          "text": "Surely he recognizes deceivers;\nand when he sees evil, does he not take note?",
+          "ID": "11"
+        },
+        {
+          "text": "But the witless can no more become wise\nthan a wild donkey’s colt can be born human.",
+          "ID": "12",
+          "comments": [
+            "Or wild donkey can be born tame"
+          ]
+        },
+        {
+          "text": "“Yet if you devote your heart to him\nand stretch out your hands to him,",
+          "ID": "13"
+        },
+        {
+          "text": "if you put away the sin that is in your hand\nand allow no evil to dwell in your tent,",
+          "ID": "14"
+        },
+        {
+          "text": "then, free of fault, you will lift up your face;\nyou will stand firm and without fear.",
+          "ID": "15"
+        },
+        {
+          "text": "You will surely forget your trouble,\nrecalling it only as waters gone by.",
+          "ID": "16"
+        },
+        {
+          "text": "Life will be brighter than noonday,\nand darkness will become like morning.",
+          "ID": "17"
+        },
+        {
+          "text": "You will be secure, because there is hope;\nyou will look about you and take your rest in safety.",
+          "ID": "18"
+        },
+        {
+          "text": "You will lie down, with no one to make you afraid,\nand many will court your favor.",
+          "ID": "19"
+        },
+        {
+          "text": "But the eyes of the wicked will fail,\nand escape will elude them;\ntheir hope will become a dying gasp.”",
+          "ID": "20"
+        }
+      ],
+      "ID": "OT:JOB.11",
+      "name": "Job 11"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Doubtless you are the only people who matter,\nand wisdom will die with you!",
+          "ID": "2"
+        },
+        {
+          "text": "But I have a mind as well as you;\nI am not inferior to you.\nWho does not know all these things?",
+          "ID": "3"
+        },
+        {
+          "text": "“I have become a laughingstock to my friends,\nthough I called on God and he answered—\na mere laughingstock, though righteous and blameless!",
+          "ID": "4"
+        },
+        {
+          "text": "Those who are at ease have contempt for misfortune\nas the fate of those whose feet are slipping.",
+          "ID": "5"
+        },
+        {
+          "text": "The tents of marauders are undisturbed,\nand those who provoke God are secure—\nthose God has in his hand.",
+          "ID": "6",
+          "comments": [
+            "Or those whose god is in their own hand"
+          ]
+        },
+        {
+          "text": "“But ask the animals, and they will teach you,\nor the birds in the sky, and they will tell you;",
+          "ID": "7"
+        },
+        {
+          "text": "or speak to the earth, and it will teach you,\nor let the fish in the sea inform you.",
+          "ID": "8"
+        },
+        {
+          "text": "Which of all these does not know\nthat the hand of the Lord has done this?",
+          "ID": "9"
+        },
+        {
+          "text": "In his hand is the life of every creature\nand the breath of all mankind.",
+          "ID": "10"
+        },
+        {
+          "text": "Does not the ear test words\nas the tongue tastes food?",
+          "ID": "11"
+        },
+        {
+          "text": "Is not wisdom found among the aged?\nDoes not long life bring understanding?",
+          "ID": "12"
+        },
+        {
+          "text": "“To God belong wisdom and power;\ncounsel and understanding are his.",
+          "ID": "13"
+        },
+        {
+          "text": "What he tears down cannot be rebuilt;\nthose he imprisons cannot be released.",
+          "ID": "14"
+        },
+        {
+          "text": "If he holds back the waters, there is drought;\nif he lets them loose, they devastate the land.",
+          "ID": "15"
+        },
+        {
+          "text": "To him belong strength and insight;\nboth deceived and deceiver are his.",
+          "ID": "16"
+        },
+        {
+          "text": "He leads rulers away stripped\nand makes fools of judges.",
+          "ID": "17"
+        },
+        {
+          "text": "He takes off the shackles put on by kings\nand ties a loincloth around their waist.",
+          "ID": "18",
+          "comments": [
+            "Or shackles of kings / and ties a belt"
+          ]
+        },
+        {
+          "text": "He leads priests away stripped\nand overthrows officials long established.",
+          "ID": "19"
+        },
+        {
+          "text": "He silences the lips of trusted advisers\nand takes away the discernment of elders.",
+          "ID": "20"
+        },
+        {
+          "text": "He pours contempt on nobles\nand disarms the mighty.",
+          "ID": "21"
+        },
+        {
+          "text": "He reveals the deep things of darkness\nand brings utter darkness into the light.",
+          "ID": "22"
+        },
+        {
+          "text": "He makes nations great, and destroys them;\nhe enlarges nations, and disperses them.",
+          "ID": "23"
+        },
+        {
+          "text": "He deprives the leaders of the earth of their reason;\nhe makes them wander in a trackless waste.",
+          "ID": "24"
+        },
+        {
+          "text": "They grope in darkness with no light;\nhe makes them stagger like drunkards.",
+          "ID": "25"
+        }
+      ],
+      "ID": "OT:JOB.12",
+      "name": "Job 12"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“My eyes have seen all this,\nmy ears have heard and understood it.",
+          "ID": "1"
+        },
+        {
+          "text": "What you know, I also know;\nI am not inferior to you.",
+          "ID": "2"
+        },
+        {
+          "text": "But I desire to speak to the Almighty\nand to argue my case with God.",
+          "ID": "3"
+        },
+        {
+          "text": "You, however, smear me with lies;\nyou are worthless physicians, all of you!",
+          "ID": "4"
+        },
+        {
+          "text": "If only you would be altogether silent!\nFor you, that would be wisdom.",
+          "ID": "5"
+        },
+        {
+          "text": "Hear now my argument;\nlisten to the pleas of my lips.",
+          "ID": "6"
+        },
+        {
+          "text": "Will you speak wickedly on God’s behalf?\nWill you speak deceitfully for him?",
+          "ID": "7"
+        },
+        {
+          "text": "Will you show him partiality?\nWill you argue the case for God?",
+          "ID": "8"
+        },
+        {
+          "text": "Would it turn out well if he examined you?\nCould you deceive him as you might deceive a mortal?",
+          "ID": "9"
+        },
+        {
+          "text": "He would surely call you to account\nif you secretly showed partiality.",
+          "ID": "10"
+        },
+        {
+          "text": "Would not his splendor terrify you?\nWould not the dread of him fall on you?",
+          "ID": "11"
+        },
+        {
+          "text": "Your maxims are proverbs of ashes;\nyour defenses are defenses of clay.",
+          "ID": "12"
+        },
+        {
+          "text": "“Keep silent and let me speak;\nthen let come to me what may.",
+          "ID": "13"
+        },
+        {
+          "text": "Why do I put myself in jeopardy\nand take my life in my hands?",
+          "ID": "14"
+        },
+        {
+          "text": "Though he slay me, yet will I hope in him;\nI will surely defend my ways to his face.",
+          "ID": "15",
+          "comments": [
+            "Or He will surely slay me; I have no hope — / yet I will"
+          ]
+        },
+        {
+          "text": "Indeed, this will turn out for my deliverance,\nfor no godless person would dare come before him!",
+          "ID": "16"
+        },
+        {
+          "text": "Listen carefully to what I say;\nlet my words ring in your ears.",
+          "ID": "17"
+        },
+        {
+          "text": "Now that I have prepared my case,\nI know I will be vindicated.",
+          "ID": "18"
+        },
+        {
+          "text": "Can anyone bring charges against me?\nIf so, I will be silent and die.",
+          "ID": "19"
+        },
+        {
+          "text": "“Only grant me these two things, God,\nand then I will not hide from you:",
+          "ID": "20"
+        },
+        {
+          "text": "Withdraw your hand far from me,\nand stop frightening me with your terrors.",
+          "ID": "21"
+        },
+        {
+          "text": "Then summon me and I will answer,\nor let me speak, and you reply to me.",
+          "ID": "22"
+        },
+        {
+          "text": "How many wrongs and sins have I committed?\nShow me my offense and my sin.",
+          "ID": "23"
+        },
+        {
+          "text": "Why do you hide your face\nand consider me your enemy?",
+          "ID": "24"
+        },
+        {
+          "text": "Will you torment a windblown leaf?\nWill you chase after dry chaff?",
+          "ID": "25"
+        },
+        {
+          "text": "For you write down bitter things against me\nand make me reap the sins of my youth.",
+          "ID": "26"
+        },
+        {
+          "text": "You fasten my feet in shackles;\nyou keep close watch on all my paths\nby putting marks on the soles of my feet.",
+          "ID": "27"
+        },
+        {
+          "text": "“So man wastes away like something rotten,\nlike a garment eaten by moths.",
+          "ID": "28"
+        }
+      ],
+      "ID": "OT:JOB.13",
+      "name": "Job 13"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“Mortals, born of woman,\nare of few days and full of trouble.",
+          "ID": "1"
+        },
+        {
+          "text": "They spring up like flowers and wither away;\nlike fleeting shadows, they do not endure.",
+          "ID": "2"
+        },
+        {
+          "text": "Do you fix your eye on them?\nWill you bring them before you for judgment?",
+          "ID": "3",
+          "comments": [
+            "Septuagint, Vulgate and Syriac; Hebrew me"
+          ]
+        },
+        {
+          "text": "Who can bring what is pure from the impure?\nNo one!",
+          "ID": "4"
+        },
+        {
+          "text": "A person’s days are determined;\nyou have decreed the number of his months\nand have set limits he cannot exceed.",
+          "ID": "5"
+        },
+        {
+          "text": "So look away from him and let him alone,\ntill he has put in his time like a hired laborer.",
+          "ID": "6"
+        },
+        {
+          "text": "“At least there is hope for a tree:\nIf it is cut down, it will sprout again,\nand its new shoots will not fail.",
+          "ID": "7"
+        },
+        {
+          "text": "Its roots may grow old in the ground\nand its stump die in the soil,",
+          "ID": "8"
+        },
+        {
+          "text": "yet at the scent of water it will bud\nand put forth shoots like a plant.",
+          "ID": "9"
+        },
+        {
+          "text": "But a man dies and is laid low;\nhe breathes his last and is no more.",
+          "ID": "10"
+        },
+        {
+          "text": "As the water of a lake dries up\nor a riverbed becomes parched and dry,",
+          "ID": "11"
+        },
+        {
+          "text": "so he lies down and does not rise;\ntill the heavens are no more, people will not awake\nor be roused from their sleep.",
+          "ID": "12"
+        },
+        {
+          "text": "“If only you would hide me in the grave\nand conceal me till your anger has passed!\nIf only you would set me a time\nand then remember me!",
+          "ID": "13"
+        },
+        {
+          "text": "If someone dies, will they live again?\nAll the days of my hard service\nI will wait for my renewal to come.",
+          "ID": "14",
+          "comments": [
+            "Or release"
+          ]
+        },
+        {
+          "text": "You will call and I will answer you;\nyou will long for the creature your hands have made.",
+          "ID": "15"
+        },
+        {
+          "text": "Surely then you will count my steps\nbut not keep track of my sin.",
+          "ID": "16"
+        },
+        {
+          "text": "My offenses will be sealed up in a bag;\nyou will cover over my sin.",
+          "ID": "17"
+        },
+        {
+          "text": "“But as a mountain erodes and crumbles\nand as a rock is moved from its place,",
+          "ID": "18"
+        },
+        {
+          "text": "as water wears away stones\nand torrents wash away the soil,\nso you destroy a person’s hope.",
+          "ID": "19"
+        },
+        {
+          "text": "You overpower them once for all, and they are gone;\nyou change their countenance and send them away.",
+          "ID": "20"
+        },
+        {
+          "text": "If their children are honored, they do not know it;\nif their offspring are brought low, they do not see it.",
+          "ID": "21"
+        },
+        {
+          "text": "They feel but the pain of their own bodies\nand mourn only for themselves.”",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:JOB.14",
+      "name": "Job 14"
+    },
+    {
+      "title": "Eliphaz",
+      "text": [
+        {
+          "text": "Then Eliphaz the Temanite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Would a wise person answer with empty notions\nor fill their belly with the hot east wind?",
+          "ID": "2"
+        },
+        {
+          "text": "Would they argue with useless words,\nwith speeches that have no value?",
+          "ID": "3"
+        },
+        {
+          "text": "But you even undermine piety\nand hinder devotion to God.",
+          "ID": "4"
+        },
+        {
+          "text": "Your sin prompts your mouth;\nyou adopt the tongue of the crafty.",
+          "ID": "5"
+        },
+        {
+          "text": "Your own mouth condemns you, not mine;\nyour own lips testify against you.",
+          "ID": "6"
+        },
+        {
+          "text": "“Are you the first man ever born?\nWere you brought forth before the hills?",
+          "ID": "7"
+        },
+        {
+          "text": "Do you listen in on God’s council?\nDo you have a monopoly on wisdom?",
+          "ID": "8"
+        },
+        {
+          "text": "What do you know that we do not know?\nWhat insights do you have that we do not have?",
+          "ID": "9"
+        },
+        {
+          "text": "The gray-haired and the aged are on our side,\nmen even older than your father.",
+          "ID": "10"
+        },
+        {
+          "text": "Are God’s consolations not enough for you,\nwords spoken gently to you?",
+          "ID": "11"
+        },
+        {
+          "text": "Why has your heart carried you away,\nand why do your eyes flash,",
+          "ID": "12"
+        },
+        {
+          "text": "so that you vent your rage against God\nand pour out such words from your mouth?",
+          "ID": "13"
+        },
+        {
+          "text": "“What are mortals, that they could be pure,\nor those born of woman, that they could be righteous?",
+          "ID": "14"
+        },
+        {
+          "text": "If God places no trust in his holy ones,\nif even the heavens are not pure in his eyes,",
+          "ID": "15"
+        },
+        {
+          "text": "how much less mortals, who are vile and corrupt,\nwho drink up evil like water!",
+          "ID": "16"
+        },
+        {
+          "text": "“Listen to me and I will explain to you;\nlet me tell you what I have seen,",
+          "ID": "17"
+        },
+        {
+          "text": "what the wise have declared,\nhiding nothing received from their ancestors",
+          "ID": "18"
+        },
+        {
+          "text": "(to whom alone the land was given\nwhen no foreigners moved among them):",
+          "ID": "19"
+        },
+        {
+          "text": "All his days the wicked man suffers torment,\nthe ruthless man through all the years stored up for him.",
+          "ID": "20"
+        },
+        {
+          "text": "Terrifying sounds fill his ears;\nwhen all seems well, marauders attack him.",
+          "ID": "21"
+        },
+        {
+          "text": "He despairs of escaping the realm of darkness;\nhe is marked for the sword.",
+          "ID": "22"
+        },
+        {
+          "text": "He wanders about for food like a vulture;\nhe knows the day of darkness is at hand.",
+          "ID": "23"
+        },
+        {
+          "text": "Distress and anguish fill him with terror;\ntroubles overwhelm him, like a king poised to attack,",
+          "ID": "24"
+        },
+        {
+          "text": "because he shakes his fist at God\nand vaunts himself against the Almighty,",
+          "ID": "25"
+        },
+        {
+          "text": "defiantly charging against him\nwith a thick, strong shield.",
+          "ID": "26"
+        },
+        {
+          "text": "“Though his face is covered with fat\nand his waist bulges with flesh,",
+          "ID": "27"
+        },
+        {
+          "text": "he will inhabit ruined towns\nand houses where no one lives,\nhouses crumbling to rubble.",
+          "ID": "28"
+        },
+        {
+          "text": "He will no longer be rich and his wealth will not endure,\nnor will his possessions spread over the land.",
+          "ID": "29"
+        },
+        {
+          "text": "He will not escape the darkness;\na flame will wither his shoots,\nand the breath of God’s mouth will carry him away.",
+          "ID": "30"
+        },
+        {
+          "text": "Let him not deceive himself by trusting what is worthless,\nfor he will get nothing in return.",
+          "ID": "31"
+        },
+        {
+          "text": "Before his time he will wither,\nand his branches will not flourish.",
+          "ID": "32"
+        },
+        {
+          "text": "He will be like a vine stripped of its unripe grapes,\nlike an olive tree shedding its blossoms.",
+          "ID": "33"
+        },
+        {
+          "text": "For the company of the godless will be barren,\nand fire will consume the tents of those who love bribes.",
+          "ID": "34"
+        },
+        {
+          "text": "They conceive trouble and give birth to evil;\ntheir womb fashions deceit.”",
+          "ID": "35"
+        }
+      ],
+      "ID": "OT:JOB.15",
+      "name": "Job 15"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“I have heard many things like these;\nyou are miserable comforters, all of you!",
+          "ID": "2"
+        },
+        {
+          "text": "Will your long-winded speeches never end?\nWhat ails you that you keep on arguing?",
+          "ID": "3"
+        },
+        {
+          "text": "I also could speak like you,\nif you were in my place;\nI could make fine speeches against you\nand shake my head at you.",
+          "ID": "4"
+        },
+        {
+          "text": "But my mouth would encourage you;\ncomfort from my lips would bring you relief.",
+          "ID": "5"
+        },
+        {
+          "text": "“Yet if I speak, my pain is not relieved;\nand if I refrain, it does not go away.",
+          "ID": "6"
+        },
+        {
+          "text": "Surely, God, you have worn me out;\nyou have devastated my entire household.",
+          "ID": "7"
+        },
+        {
+          "text": "You have shriveled me up—and it has become a witness;\nmy gauntness rises up and testifies against me.",
+          "ID": "8"
+        },
+        {
+          "text": "God assails me and tears me in his anger\nand gnashes his teeth at me;\nmy opponent fastens on me his piercing eyes.",
+          "ID": "9"
+        },
+        {
+          "text": "People open their mouths to jeer at me;\nthey strike my cheek in scorn\nand unite together against me.",
+          "ID": "10"
+        },
+        {
+          "text": "God has turned me over to the ungodly\nand thrown me into the clutches of the wicked.",
+          "ID": "11"
+        },
+        {
+          "text": "All was well with me, but he shattered me;\nhe seized me by the neck and crushed me.\nHe has made me his target;",
+          "ID": "12"
+        },
+        {
+          "text": "    his archers surround me.\nWithout pity, he pierces my kidneys\nand spills my gall on the ground.",
+          "ID": "13"
+        },
+        {
+          "text": "Again and again he bursts upon me;\nhe rushes at me like a warrior.",
+          "ID": "14"
+        },
+        {
+          "text": "“I have sewed sackcloth over my skin\nand buried my brow in the dust.",
+          "ID": "15"
+        },
+        {
+          "text": "My face is red with weeping,\ndark shadows ring my eyes;",
+          "ID": "16"
+        },
+        {
+          "text": "yet my hands have been free of violence\nand my prayer is pure.",
+          "ID": "17"
+        },
+        {
+          "text": "“Earth, do not cover my blood;\nmay my cry never be laid to rest!",
+          "ID": "18"
+        },
+        {
+          "text": "Even now my witness is in heaven;\nmy advocate is on high.",
+          "ID": "19"
+        },
+        {
+          "text": "My intercessor is my friend\nas my eyes pour out tears to God;",
+          "ID": "20",
+          "comments": [
+            "Or My friends treat me with scorn"
+          ]
+        },
+        {
+          "text": "on behalf of a man he pleads with God\nas one pleads for a friend.",
+          "ID": "21"
+        },
+        {
+          "text": "“Only a few years will pass\nbefore I take the path of no return.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:JOB.16",
+      "name": "Job 16"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "My spirit is broken,\nmy days are cut short,\nthe grave awaits me.",
+          "ID": "1"
+        },
+        {
+          "text": "Surely mockers surround me;\nmy eyes must dwell on their hostility.",
+          "ID": "2"
+        },
+        {
+          "text": "“Give me, O God, the pledge you demand.\nWho else will put up security for me?",
+          "ID": "3"
+        },
+        {
+          "text": "You have closed their minds to understanding;\ntherefore you will not let them triumph.",
+          "ID": "4"
+        },
+        {
+          "text": "If anyone denounces their friends for reward,\nthe eyes of their children will fail.",
+          "ID": "5"
+        },
+        {
+          "text": "“God has made me a byword to everyone,\na man in whose face people spit.",
+          "ID": "6"
+        },
+        {
+          "text": "My eyes have grown dim with grief;\nmy whole frame is but a shadow.",
+          "ID": "7"
+        },
+        {
+          "text": "The upright are appalled at this;\nthe innocent are aroused against the ungodly.",
+          "ID": "8"
+        },
+        {
+          "text": "Nevertheless, the righteous will hold to their ways,\nand those with clean hands will grow stronger.",
+          "ID": "9"
+        },
+        {
+          "text": "“But come on, all of you, try again!\nI will not find a wise man among you.",
+          "ID": "10"
+        },
+        {
+          "text": "My days have passed, my plans are shattered.\nYet the desires of my heart",
+          "ID": "11"
+        },
+        {
+          "text": "turn night into day;\nin the face of the darkness light is near.",
+          "ID": "12"
+        },
+        {
+          "text": "If the only home I hope for is the grave,\nif I spread out my bed in the realm of darkness,",
+          "ID": "13"
+        },
+        {
+          "text": "if I say to corruption, ‘You are my father,’\nand to the worm, ‘My mother’ or ‘My sister,’",
+          "ID": "14"
+        },
+        {
+          "text": "where then is my hope—\nwho can see any hope for me?",
+          "ID": "15"
+        },
+        {
+          "text": "Will it go down to the gates of death?\nWill we descend together into the dust?”",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:JOB.17",
+      "name": "Job 17"
+    },
+    {
+      "title": "Bildad",
+      "text": [
+        {
+          "text": "Then Bildad the Shuhite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“When will you end these speeches?\nBe sensible, and then we can talk.",
+          "ID": "2"
+        },
+        {
+          "text": "Why are we regarded as cattle\nand considered stupid in your sight?",
+          "ID": "3"
+        },
+        {
+          "text": "You who tear yourself to pieces in your anger,\nis the earth to be abandoned for your sake?\nOr must the rocks be moved from their place?",
+          "ID": "4"
+        },
+        {
+          "text": "“The lamp of a wicked man is snuffed out;\nthe flame of his fire stops burning.",
+          "ID": "5"
+        },
+        {
+          "text": "The light in his tent becomes dark;\nthe lamp beside him goes out.",
+          "ID": "6"
+        },
+        {
+          "text": "The vigor of his step is weakened;\nhis own schemes throw him down.",
+          "ID": "7"
+        },
+        {
+          "text": "His feet thrust him into a net;\nhe wanders into its mesh.",
+          "ID": "8"
+        },
+        {
+          "text": "A trap seizes him by the heel;\na snare holds him fast.",
+          "ID": "9"
+        },
+        {
+          "text": "A noose is hidden for him on the ground;\na trap lies in his path.",
+          "ID": "10"
+        },
+        {
+          "text": "Terrors startle him on every side\nand dog his every step.",
+          "ID": "11"
+        },
+        {
+          "text": "Calamity is hungry for him;\ndisaster is ready for him when he falls.",
+          "ID": "12"
+        },
+        {
+          "text": "It eats away parts of his skin;\ndeath’s firstborn devours his limbs.",
+          "ID": "13"
+        },
+        {
+          "text": "He is torn from the security of his tent\nand marched off to the king of terrors.",
+          "ID": "14"
+        },
+        {
+          "text": "Fire resides in his tent;\nburning sulfur is scattered over his dwelling.",
+          "ID": "15",
+          "comments": [
+            "Or Nothing he had remains"
+          ]
+        },
+        {
+          "text": "His roots dry up below\nand his branches wither above.",
+          "ID": "16"
+        },
+        {
+          "text": "The memory of him perishes from the earth;\nhe has no name in the land.",
+          "ID": "17"
+        },
+        {
+          "text": "He is driven from light into the realm of darkness\nand is banished from the world.",
+          "ID": "18"
+        },
+        {
+          "text": "He has no offspring or descendants among his people,\nno survivor where once he lived.",
+          "ID": "19"
+        },
+        {
+          "text": "People of the west are appalled at his fate;\nthose of the east are seized with horror.",
+          "ID": "20"
+        },
+        {
+          "text": "Surely such is the dwelling of an evil man;\nsuch is the place of one who does not know God.”",
+          "ID": "21"
+        }
+      ],
+      "ID": "OT:JOB.18",
+      "name": "Job 18"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“How long will you torment me\nand crush me with words?",
+          "ID": "2"
+        },
+        {
+          "text": "Ten times now you have reproached me;\nshamelessly you attack me.",
+          "ID": "3"
+        },
+        {
+          "text": "If it is true that I have gone astray,\nmy error remains my concern alone.",
+          "ID": "4"
+        },
+        {
+          "text": "If indeed you would exalt yourselves above me\nand use my humiliation against me,",
+          "ID": "5"
+        },
+        {
+          "text": "then know that God has wronged me\nand drawn his net around me.",
+          "ID": "6"
+        },
+        {
+          "text": "“Though I cry, ‘Violence!’ I get no response;\nthough I call for help, there is no justice.",
+          "ID": "7"
+        },
+        {
+          "text": "He has blocked my way so I cannot pass;\nhe has shrouded my paths in darkness.",
+          "ID": "8"
+        },
+        {
+          "text": "He has stripped me of my honor\nand removed the crown from my head.",
+          "ID": "9"
+        },
+        {
+          "text": "He tears me down on every side till I am gone;\nhe uproots my hope like a tree.",
+          "ID": "10"
+        },
+        {
+          "text": "His anger burns against me;\nhe counts me among his enemies.",
+          "ID": "11"
+        },
+        {
+          "text": "His troops advance in force;\nthey build a siege ramp against me\nand encamp around my tent.",
+          "ID": "12"
+        },
+        {
+          "text": "“He has alienated my family from me;\nmy acquaintances are completely estranged from me.",
+          "ID": "13"
+        },
+        {
+          "text": "My relatives have gone away;\nmy closest friends have forgotten me.",
+          "ID": "14"
+        },
+        {
+          "text": "My guests and my female servants count me a foreigner;\nthey look on me as on a stranger.",
+          "ID": "15"
+        },
+        {
+          "text": "I summon my servant, but he does not answer,\nthough I beg him with my own mouth.",
+          "ID": "16"
+        },
+        {
+          "text": "My breath is offensive to my wife;\nI am loathsome to my own family.",
+          "ID": "17"
+        },
+        {
+          "text": "Even the little boys scorn me;\nwhen I appear, they ridicule me.",
+          "ID": "18"
+        },
+        {
+          "text": "All my intimate friends detest me;\nthose I love have turned against me.",
+          "ID": "19"
+        },
+        {
+          "text": "I am nothing but skin and bones;\nI have escaped only by the skin of my teeth.",
+          "ID": "20",
+          "comments": [
+            "Or only by my gums"
+          ]
+        },
+        {
+          "text": "“Have pity on me, my friends, have pity,\nfor the hand of God has struck me.",
+          "ID": "21"
+        },
+        {
+          "text": "Why do you pursue me as God does?\nWill you never get enough of my flesh?",
+          "ID": "22"
+        },
+        {
+          "text": "“Oh, that my words were recorded,\nthat they were written on a scroll,",
+          "ID": "23"
+        },
+        {
+          "text": "that they were inscribed with an iron tool on lead,\nor engraved in rock forever!",
+          "ID": "24",
+          "comments": [
+            "Or and"
+          ]
+        },
+        {
+          "text": "I know that my redeemer lives,\nand that in the end he will stand on the earth.",
+          "ID": "25",
+          "comments": [
+            "Or vindicator",
+            "Or on my grave"
+          ]
+        },
+        {
+          "text": "And after my skin has been destroyed,\nyet in my flesh I will see God;",
+          "ID": "26",
+          "comments": [
+            "Or And after I awake, / though this body has been destroyed, / then",
+            "Or destroyed, / apart from"
+          ]
+        },
+        {
+          "text": "I myself will see him\nwith my own eyes—I, and not another.\nHow my heart yearns within me!",
+          "ID": "27"
+        },
+        {
+          "text": "“If you say, ‘How we will hound him,\nsince the root of the trouble lies in him,’",
+          "ID": "28",
+          "comments": [
+            "Many Hebrew manuscripts, Septuagint and Vulgate; most Hebrew manuscripts me"
+          ]
+        },
+        {
+          "text": "you should fear the sword yourselves;\nfor wrath will bring punishment by the sword,\nand then you will know that there is judgment.”",
+          "ID": "29",
+          "comments": [
+            "Or sword, / that you may come to know the Almighty"
+          ]
+        }
+      ],
+      "ID": "OT:JOB.19",
+      "name": "Job 19"
+    },
+    {
+      "title": "Zophar",
+      "text": [
+        {
+          "text": "Then Zophar the Naamathite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“My troubled thoughts prompt me to answer\nbecause I am greatly disturbed.",
+          "ID": "2"
+        },
+        {
+          "text": "I hear a rebuke that dishonors me,\nand my understanding inspires me to reply.",
+          "ID": "3"
+        },
+        {
+          "text": "“Surely you know how it has been from of old,\never since mankind was placed on the earth,",
+          "ID": "4",
+          "comments": [
+            "Or Adam"
+          ]
+        },
+        {
+          "text": "that the mirth of the wicked is brief,\nthe joy of the godless lasts but a moment.",
+          "ID": "5"
+        },
+        {
+          "text": "Though the pride of the godless person reaches to the heavens\nand his head touches the clouds,",
+          "ID": "6"
+        },
+        {
+          "text": "he will perish forever, like his own dung;\nthose who have seen him will say, ‘Where is he?’",
+          "ID": "7"
+        },
+        {
+          "text": "Like a dream he flies away, no more to be found,\nbanished like a vision of the night.",
+          "ID": "8"
+        },
+        {
+          "text": "The eye that saw him will not see him again;\nhis place will look on him no more.",
+          "ID": "9"
+        },
+        {
+          "text": "His children must make amends to the poor;\nhis own hands must give back his wealth.",
+          "ID": "10"
+        },
+        {
+          "text": "The youthful vigor that fills his bones\nwill lie with him in the dust.",
+          "ID": "11"
+        },
+        {
+          "text": "“Though evil is sweet in his mouth\nand he hides it under his tongue,",
+          "ID": "12"
+        },
+        {
+          "text": "though he cannot bear to let it go\nand lets it linger in his mouth,",
+          "ID": "13"
+        },
+        {
+          "text": "yet his food will turn sour in his stomach;\nit will become the venom of serpents within him.",
+          "ID": "14"
+        },
+        {
+          "text": "He will spit out the riches he swallowed;\nGod will make his stomach vomit them up.",
+          "ID": "15"
+        },
+        {
+          "text": "He will suck the poison of serpents;\nthe fangs of an adder will kill him.",
+          "ID": "16"
+        },
+        {
+          "text": "He will not enjoy the streams,\nthe rivers flowing with honey and cream.",
+          "ID": "17"
+        },
+        {
+          "text": "What he toiled for he must give back uneaten;\nhe will not enjoy the profit from his trading.",
+          "ID": "18"
+        },
+        {
+          "text": "For he has oppressed the poor and left them destitute;\nhe has seized houses he did not build.",
+          "ID": "19"
+        },
+        {
+          "text": "“Surely he will have no respite from his craving;\nhe cannot save himself by his treasure.",
+          "ID": "20"
+        },
+        {
+          "text": "Nothing is left for him to devour;\nhis prosperity will not endure.",
+          "ID": "21"
+        },
+        {
+          "text": "In the midst of his plenty, distress will overtake him;\nthe full force of misery will come upon him.",
+          "ID": "22"
+        },
+        {
+          "text": "When he has filled his belly,\nGod will vent his burning anger against him\nand rain down his blows on him.",
+          "ID": "23"
+        },
+        {
+          "text": "Though he flees from an iron weapon,\na bronze-tipped arrow pierces him.",
+          "ID": "24"
+        },
+        {
+          "text": "He pulls it out of his back,\nthe gleaming point out of his liver.\nTerrors will come over him;",
+          "ID": "25"
+        },
+        {
+          "text": "    total darkness lies in wait for his treasures.\nA fire unfanned will consume him\nand devour what is left in his tent.",
+          "ID": "26"
+        },
+        {
+          "text": "The heavens will expose his guilt;\nthe earth will rise up against him.",
+          "ID": "27"
+        },
+        {
+          "text": "A flood will carry off his house,\nrushing waters on the day of God’s wrath.",
+          "ID": "28",
+          "comments": [
+            "Or The possessions in his house will be carried off, / washed away"
+          ]
+        },
+        {
+          "text": "Such is the fate God allots the wicked,\nthe heritage appointed for them by God.”",
+          "ID": "29"
+        }
+      ],
+      "ID": "OT:JOB.20",
+      "name": "Job 20"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Listen carefully to my words;\nlet this be the consolation you give me.",
+          "ID": "2"
+        },
+        {
+          "text": "Bear with me while I speak,\nand after I have spoken, mock on.",
+          "ID": "3"
+        },
+        {
+          "text": "“Is my complaint directed to a human being?\nWhy should I not be impatient?",
+          "ID": "4"
+        },
+        {
+          "text": "Look at me and be appalled;\nclap your hand over your mouth.",
+          "ID": "5"
+        },
+        {
+          "text": "When I think about this, I am terrified;\ntrembling seizes my body.",
+          "ID": "6"
+        },
+        {
+          "text": "Why do the wicked live on,\ngrowing old and increasing in power?",
+          "ID": "7"
+        },
+        {
+          "text": "They see their children established around them,\ntheir offspring before their eyes.",
+          "ID": "8"
+        },
+        {
+          "text": "Their homes are safe and free from fear;\nthe rod of God is not on them.",
+          "ID": "9"
+        },
+        {
+          "text": "Their bulls never fail to breed;\ntheir cows calve and do not miscarry.",
+          "ID": "10"
+        },
+        {
+          "text": "They send forth their children as a flock;\ntheir little ones dance about.",
+          "ID": "11"
+        },
+        {
+          "text": "They sing to the music of timbrel and lyre;\nthey make merry to the sound of the pipe.",
+          "ID": "12"
+        },
+        {
+          "text": "They spend their years in prosperity\nand go down to the grave in peace.",
+          "ID": "13",
+          "comments": [
+            "Or in an instant"
+          ]
+        },
+        {
+          "text": "Yet they say to God, ‘Leave us alone!\nWe have no desire to know your ways.",
+          "ID": "14"
+        },
+        {
+          "text": "Who is the Almighty, that we should serve him?\nWhat would we gain by praying to him?’",
+          "ID": "15"
+        },
+        {
+          "text": "But their prosperity is not in their own hands,\nso I stand aloof from the plans of the wicked.",
+          "ID": "16"
+        },
+        {
+          "text": "“Yet how often is the lamp of the wicked snuffed out?\nHow often does calamity come upon them,\nthe fate God allots in his anger?",
+          "ID": "17"
+        },
+        {
+          "text": "How often are they like straw before the wind,\nlike chaff swept away by a gale?",
+          "ID": "18"
+        },
+        {
+          "text": "It is said, ‘God stores up the punishment of the wicked for their children.’\nLet him repay the wicked, so that they themselves will experience it!",
+          "ID": "19"
+        },
+        {
+          "text": "Let their own eyes see their destruction;\nlet them drink the cup of the wrath of the Almighty.",
+          "ID": "20"
+        },
+        {
+          "text": "For what do they care about the families they leave behind\nwhen their allotted months come to an end?",
+          "ID": "21"
+        },
+        {
+          "text": "“Can anyone teach knowledge to God,\nsince he judges even the highest?",
+          "ID": "22"
+        },
+        {
+          "text": "One person dies in full vigor,\ncompletely secure and at ease,",
+          "ID": "23"
+        },
+        {
+          "text": "well nourished in body,\nbones rich with marrow.",
+          "ID": "24",
+          "comments": [
+            "The meaning of the Hebrew for this word is uncertain."
+          ]
+        },
+        {
+          "text": "Another dies in bitterness of soul,\nnever having enjoyed anything good.",
+          "ID": "25"
+        },
+        {
+          "text": "Side by side they lie in the dust,\nand worms cover them both.",
+          "ID": "26"
+        },
+        {
+          "text": "“I know full well what you are thinking,\nthe schemes by which you would wrong me.",
+          "ID": "27"
+        },
+        {
+          "text": "You say, ‘Where now is the house of the great,\nthe tents where the wicked lived?’",
+          "ID": "28"
+        },
+        {
+          "text": "Have you never questioned those who travel?\nHave you paid no regard to their accounts—",
+          "ID": "29"
+        },
+        {
+          "text": "that the wicked are spared from the day of calamity,\nthat they are delivered from the day of wrath?",
+          "ID": "30",
+          "comments": [
+            "Or wicked are reserved for the day of calamity, / that they are brought forth to"
+          ]
+        },
+        {
+          "text": "Who denounces their conduct to their face?\nWho repays them for what they have done?",
+          "ID": "31"
+        },
+        {
+          "text": "They are carried to the grave,\nand watch is kept over their tombs.",
+          "ID": "32"
+        },
+        {
+          "text": "The soil in the valley is sweet to them;\neveryone follows after them,\nand a countless throng goes before them.",
+          "ID": "33",
+          "comments": [
+            "Or them, / as a countless throng went"
+          ]
+        },
+        {
+          "text": "“So how can you console me with your nonsense?\nNothing is left of your answers but falsehood!”",
+          "ID": "34"
+        }
+      ],
+      "ID": "OT:JOB.21",
+      "name": "Job 21"
+    },
+    {
+      "title": "Eliphaz",
+      "text": [
+        {
+          "text": "Then Eliphaz the Temanite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Can a man be of benefit to God?\nCan even a wise person benefit him?",
+          "ID": "2"
+        },
+        {
+          "text": "What pleasure would it give the Almighty if you were righteous?\nWhat would he gain if your ways were blameless?",
+          "ID": "3"
+        },
+        {
+          "text": "“Is it for your piety that he rebukes you\nand brings charges against you?",
+          "ID": "4"
+        },
+        {
+          "text": "Is not your wickedness great?\nAre not your sins endless?",
+          "ID": "5"
+        },
+        {
+          "text": "You demanded security from your relatives for no reason;\nyou stripped people of their clothing, leaving them naked.",
+          "ID": "6"
+        },
+        {
+          "text": "You gave no water to the weary\nand you withheld food from the hungry,",
+          "ID": "7"
+        },
+        {
+          "text": "though you were a powerful man, owning land—\nan honored man, living on it.",
+          "ID": "8"
+        },
+        {
+          "text": "And you sent widows away empty-handed\nand broke the strength of the fatherless.",
+          "ID": "9"
+        },
+        {
+          "text": "That is why snares are all around you,\nwhy sudden peril terrifies you,",
+          "ID": "10"
+        },
+        {
+          "text": "why it is so dark you cannot see,\nand why a flood of water covers you.",
+          "ID": "11"
+        },
+        {
+          "text": "“Is not God in the heights of heaven?\nAnd see how lofty are the highest stars!",
+          "ID": "12"
+        },
+        {
+          "text": "Yet you say, ‘What does God know?\nDoes he judge through such darkness?",
+          "ID": "13"
+        },
+        {
+          "text": "Thick clouds veil him, so he does not see us\nas he goes about in the vaulted heavens.’",
+          "ID": "14"
+        },
+        {
+          "text": "Will you keep to the old path\nthat the wicked have trod?",
+          "ID": "15"
+        },
+        {
+          "text": "They were carried off before their time,\ntheir foundations washed away by a flood.",
+          "ID": "16"
+        },
+        {
+          "text": "They said to God, ‘Leave us alone!\nWhat can the Almighty do to us?’",
+          "ID": "17"
+        },
+        {
+          "text": "Yet it was he who filled their houses with good things,\nso I stand aloof from the plans of the wicked.",
+          "ID": "18"
+        },
+        {
+          "text": "The righteous see their ruin and rejoice;\nthe innocent mock them, saying,",
+          "ID": "19"
+        },
+        {
+          "text": "‘Surely our foes are destroyed,\nand fire devours their wealth.’",
+          "ID": "20"
+        },
+        {
+          "text": "“Submit to God and be at peace with him;\nin this way prosperity will come to you.",
+          "ID": "21"
+        },
+        {
+          "text": "Accept instruction from his mouth\nand lay up his words in your heart.",
+          "ID": "22"
+        },
+        {
+          "text": "If you return to the Almighty, you will be restored:\nIf you remove wickedness far from your tent",
+          "ID": "23"
+        },
+        {
+          "text": "and assign your nuggets to the dust,\nyour gold of Ophir to the rocks in the ravines,",
+          "ID": "24"
+        },
+        {
+          "text": "then the Almighty will be your gold,\nthe choicest silver for you.",
+          "ID": "25"
+        },
+        {
+          "text": "Surely then you will find delight in the Almighty\nand will lift up your face to God.",
+          "ID": "26"
+        },
+        {
+          "text": "You will pray to him, and he will hear you,\nand you will fulfill your vows.",
+          "ID": "27"
+        },
+        {
+          "text": "What you decide on will be done,\nand light will shine on your ways.",
+          "ID": "28"
+        },
+        {
+          "text": "When people are brought low and you say, ‘Lift them up!’\nthen he will save the downcast.",
+          "ID": "29"
+        },
+        {
+          "text": "He will deliver even one who is not innocent,\nwho will be delivered through the cleanness of your hands.”",
+          "ID": "30"
+        }
+      ],
+      "ID": "OT:JOB.22",
+      "name": "Job 22"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Even today my complaint is bitter;\nhis hand is heavy in spite of my groaning.",
+          "ID": "2",
+          "comments": [
+            "Septuagint and Syriac; Hebrew / the hand on me",
+            "Or heavy on me in"
+          ]
+        },
+        {
+          "text": "If only I knew where to find him;\nif only I could go to his dwelling!",
+          "ID": "3"
+        },
+        {
+          "text": "I would state my case before him\nand fill my mouth with arguments.",
+          "ID": "4"
+        },
+        {
+          "text": "I would find out what he would answer me,\nand consider what he would say to me.",
+          "ID": "5"
+        },
+        {
+          "text": "Would he vigorously oppose me?\nNo, he would not press charges against me.",
+          "ID": "6"
+        },
+        {
+          "text": "There the upright can establish their innocence before him,\nand there I would be delivered forever from my judge.",
+          "ID": "7"
+        },
+        {
+          "text": "“But if I go to the east, he is not there;\nif I go to the west, I do not find him.",
+          "ID": "8"
+        },
+        {
+          "text": "When he is at work in the north, I do not see him;\nwhen he turns to the south, I catch no glimpse of him.",
+          "ID": "9"
+        },
+        {
+          "text": "But he knows the way that I take;\nwhen he has tested me, I will come forth as gold.",
+          "ID": "10"
+        },
+        {
+          "text": "My feet have closely followed his steps;\nI have kept to his way without turning aside.",
+          "ID": "11"
+        },
+        {
+          "text": "I have not departed from the commands of his lips;\nI have treasured the words of his mouth more than my daily bread.",
+          "ID": "12"
+        },
+        {
+          "text": "“But he stands alone, and who can oppose him?\nHe does whatever he pleases.",
+          "ID": "13"
+        },
+        {
+          "text": "He carries out his decree against me,\nand many such plans he still has in store.",
+          "ID": "14"
+        },
+        {
+          "text": "That is why I am terrified before him;\nwhen I think of all this, I fear him.",
+          "ID": "15"
+        },
+        {
+          "text": "God has made my heart faint;\nthe Almighty has terrified me.",
+          "ID": "16"
+        },
+        {
+          "text": "Yet I am not silenced by the darkness,\nby the thick darkness that covers my face.",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:JOB.23",
+      "name": "Job 23"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“Why does the Almighty not set times for judgment?\nWhy must those who know him look in vain for such days?",
+          "ID": "1"
+        },
+        {
+          "text": "There are those who move boundary stones;\nthey pasture flocks they have stolen.",
+          "ID": "2"
+        },
+        {
+          "text": "They drive away the orphan’s donkey\nand take the widow’s ox in pledge.",
+          "ID": "3"
+        },
+        {
+          "text": "They thrust the needy from the path\nand force all the poor of the land into hiding.",
+          "ID": "4"
+        },
+        {
+          "text": "Like wild donkeys in the desert,\nthe poor go about their labor of foraging food;\nthe wasteland provides food for their children.",
+          "ID": "5"
+        },
+        {
+          "text": "They gather fodder in the fields\nand glean in the vineyards of the wicked.",
+          "ID": "6"
+        },
+        {
+          "text": "Lacking clothes, they spend the night naked;\nthey have nothing to cover themselves in the cold.",
+          "ID": "7"
+        },
+        {
+          "text": "They are drenched by mountain rains\nand hug the rocks for lack of shelter.",
+          "ID": "8"
+        },
+        {
+          "text": "The fatherless child is snatched from the breast;\nthe infant of the poor is seized for a debt.",
+          "ID": "9"
+        },
+        {
+          "text": "Lacking clothes, they go about naked;\nthey carry the sheaves, but still go hungry.",
+          "ID": "10"
+        },
+        {
+          "text": "They crush olives among the terraces;\nthey tread the winepresses, yet suffer thirst.",
+          "ID": "11",
+          "comments": [
+            "The meaning of the Hebrew for this word is uncertain."
+          ]
+        },
+        {
+          "text": "The groans of the dying rise from the city,\nand the souls of the wounded cry out for help.\nBut God charges no one with wrongdoing.",
+          "ID": "12"
+        },
+        {
+          "text": "“There are those who rebel against the light,\nwho do not know its ways\nor stay in its paths.",
+          "ID": "13"
+        },
+        {
+          "text": "When daylight is gone, the murderer rises up,\nkills the poor and needy,\nand in the night steals forth like a thief.",
+          "ID": "14"
+        },
+        {
+          "text": "The eye of the adulterer watches for dusk;\nhe thinks, ‘No eye will see me,’\nand he keeps his face concealed.",
+          "ID": "15"
+        },
+        {
+          "text": "In the dark, thieves break into houses,\nbut by day they shut themselves in;\nthey want nothing to do with the light.",
+          "ID": "16"
+        },
+        {
+          "text": "For all of them, midnight is their morning;\nthey make friends with the terrors of darkness.",
+          "ID": "17"
+        },
+        {
+          "text": "“Yet they are foam on the surface of the water;\ntheir portion of the land is cursed,\nso that no one goes to the vineyards.",
+          "ID": "18"
+        },
+        {
+          "text": "As heat and drought snatch away the melted snow,\nso the grave snatches away those who have sinned.",
+          "ID": "19"
+        },
+        {
+          "text": "The womb forgets them,\nthe worm feasts on them;\nthe wicked are no longer remembered\nbut are broken like a tree.",
+          "ID": "20"
+        },
+        {
+          "text": "They prey on the barren and childless woman,\nand to the widow they show no kindness.",
+          "ID": "21"
+        },
+        {
+          "text": "But God drags away the mighty by his power;\nthough they become established, they have no assurance of life.",
+          "ID": "22"
+        },
+        {
+          "text": "He may let them rest in a feeling of security,\nbut his eyes are on their ways.",
+          "ID": "23"
+        },
+        {
+          "text": "For a little while they are exalted, and then they are gone;\nthey are brought low and gathered up like all others;\nthey are cut off like heads of grain.",
+          "ID": "24"
+        },
+        {
+          "text": "“If this is not so, who can prove me false\nand reduce my words to nothing?”",
+          "ID": "25"
+        }
+      ],
+      "ID": "OT:JOB.24",
+      "name": "Job 24"
+    },
+    {
+      "title": "Bildad",
+      "text": [
+        {
+          "text": "Then Bildad the Shuhite replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“Dominion and awe belong to God;\nhe establishes order in the heights of heaven.",
+          "ID": "2"
+        },
+        {
+          "text": "Can his forces be numbered?\nOn whom does his light not rise?",
+          "ID": "3"
+        },
+        {
+          "text": "How then can a mortal be righteous before God?\nHow can one born of woman be pure?",
+          "ID": "4"
+        },
+        {
+          "text": "If even the moon is not bright\nand the stars are not pure in his eyes,",
+          "ID": "5"
+        },
+        {
+          "text": "how much less a mortal, who is but a maggot—\na human being, who is only a worm!”",
+          "ID": "6"
+        }
+      ],
+      "ID": "OT:JOB.25",
+      "name": "Job 25"
+    },
+    {
+      "title": "Job",
+      "text": [
+        {
+          "text": "Then Job replied:",
+          "ID": "1"
+        },
+        {
+          "text": "“How you have helped the powerless!\nHow you have saved the arm that is feeble!",
+          "ID": "2"
+        },
+        {
+          "text": "What advice you have offered to one without wisdom!\nAnd what great insight you have displayed!",
+          "ID": "3"
+        },
+        {
+          "text": "Who has helped you utter these words?\nAnd whose spirit spoke from your mouth?",
+          "ID": "4"
+        },
+        {
+          "text": "“The dead are in deep anguish,\nthose beneath the waters and all that live in them.",
+          "ID": "5"
+        },
+        {
+          "text": "The realm of the dead is naked before God;\nDestruction lies uncovered.",
+          "ID": "6",
+          "comments": [
+            "Hebrew Abaddon"
+          ]
+        },
+        {
+          "text": "He spreads out the northern skies over empty space;\nhe suspends the earth over nothing.",
+          "ID": "7"
+        },
+        {
+          "text": "He wraps up the waters in his clouds,\nyet the clouds do not burst under their weight.",
+          "ID": "8"
+        },
+        {
+          "text": "He covers the face of the full moon,\nspreading his clouds over it.",
+          "ID": "9"
+        },
+        {
+          "text": "He marks out the horizon on the face of the waters\nfor a boundary between light and darkness.",
+          "ID": "10"
+        },
+        {
+          "text": "The pillars of the heavens quake,\naghast at his rebuke.",
+          "ID": "11"
+        },
+        {
+          "text": "By his power he churned up the sea;\nby his wisdom he cut Rahab to pieces.",
+          "ID": "12"
+        },
+        {
+          "text": "By his breath the skies became fair;\nhis hand pierced the gliding serpent.",
+          "ID": "13"
+        },
+        {
+          "text": "And these are but the outer fringe of his works;\nhow faint the whisper we hear of him!\nWho then can understand the thunder of his power?”",
+          "ID": "14"
+        }
+      ],
+      "ID": "OT:JOB.26",
+      "name": "Job 26"
+    },
+    {
+      "title": "Job’s Final Word to His Friends",
+      "text": [
+        {
+          "text": "And Job continued his discourse:",
+          "ID": "1"
+        },
+        {
+          "text": "“As surely as God lives, who has denied me justice,\nthe Almighty, who has made my life bitter,",
+          "ID": "2"
+        },
+        {
+          "text": "as long as I have life within me,\nthe breath of God in my nostrils,",
+          "ID": "3"
+        },
+        {
+          "text": "my lips will not say anything wicked,\nand my tongue will not utter lies.",
+          "ID": "4"
+        },
+        {
+          "text": "I will never admit you are in the right;\ntill I die, I will not deny my integrity.",
+          "ID": "5"
+        },
+        {
+          "text": "I will maintain my innocence and never let go of it;\nmy conscience will not reproach me as long as I live.",
+          "ID": "6"
+        },
+        {
+          "text": "“May my enemy be like the wicked,\nmy adversary like the unjust!",
+          "ID": "7"
+        },
+        {
+          "text": "For what hope have the godless when they are cut off,\nwhen God takes away their life?",
+          "ID": "8"
+        },
+        {
+          "text": "Does God listen to their cry\nwhen distress comes upon them?",
+          "ID": "9"
+        },
+        {
+          "text": "Will they find delight in the Almighty?\nWill they call on God at all times?",
+          "ID": "10"
+        },
+        {
+          "text": "“I will teach you about the power of God;\nthe ways of the Almighty I will not conceal.",
+          "ID": "11"
+        },
+        {
+          "text": "You have all seen this yourselves.\nWhy then this meaningless talk?",
+          "ID": "12"
+        },
+        {
+          "text": "“Here is the fate God allots to the wicked,\nthe heritage a ruthless man receives from the Almighty:",
+          "ID": "13"
+        },
+        {
+          "text": "However many his children, their fate is the sword;\nhis offspring will never have enough to eat.",
+          "ID": "14"
+        },
+        {
+          "text": "The plague will bury those who survive him,\nand their widows will not weep for them.",
+          "ID": "15"
+        },
+        {
+          "text": "Though he heaps up silver like dust\nand clothes like piles of clay,",
+          "ID": "16"
+        },
+        {
+          "text": "what he lays up the righteous will wear,\nand the innocent will divide his silver.",
+          "ID": "17"
+        },
+        {
+          "text": "The house he builds is like a moth’s cocoon,\nlike a hut made by a watchman.",
+          "ID": "18"
+        },
+        {
+          "text": "He lies down wealthy, but will do so no more;\nwhen he opens his eyes, all is gone.",
+          "ID": "19"
+        },
+        {
+          "text": "Terrors overtake him like a flood;\na tempest snatches him away in the night.",
+          "ID": "20"
+        },
+        {
+          "text": "The east wind carries him off, and he is gone;\nit sweeps him out of his place.",
+          "ID": "21"
+        },
+        {
+          "text": "It hurls itself against him without mercy\nas he flees headlong from its power.",
+          "ID": "22"
+        },
+        {
+          "text": "It claps its hands in derision\nand hisses him out of his place.”",
+          "ID": "23"
+        }
+      ],
+      "ID": "OT:JOB.27",
+      "name": "Job 27"
+    },
+    {
+      "title": "Interlude: Where Wisdom Is Found",
+      "text": [
+        {
+          "text": "There is a mine for silver\nand a place where gold is refined.",
+          "ID": "1"
+        },
+        {
+          "text": "Iron is taken from the earth,\nand copper is smelted from ore.",
+          "ID": "2"
+        },
+        {
+          "text": "Mortals put an end to the darkness;\nthey search out the farthest recesses\nfor ore in the blackest darkness.",
+          "ID": "3"
+        },
+        {
+          "text": "Far from human dwellings they cut a shaft,\nin places untouched by human feet;\nfar from other people they dangle and sway.",
+          "ID": "4"
+        },
+        {
+          "text": "The earth, from which food comes,\nis transformed below as by fire;",
+          "ID": "5"
+        },
+        {
+          "text": "lapis lazuli comes from its rocks,\nand its dust contains nuggets of gold.",
+          "ID": "6"
+        },
+        {
+          "text": "No bird of prey knows that hidden path,\nno falcon’s eye has seen it.",
+          "ID": "7"
+        },
+        {
+          "text": "Proud beasts do not set foot on it,\nand no lion prowls there.",
+          "ID": "8"
+        },
+        {
+          "text": "People assault the flinty rock with their hands\nand lay bare the roots of the mountains.",
+          "ID": "9"
+        },
+        {
+          "text": "They tunnel through the rock;\ntheir eyes see all its treasures.",
+          "ID": "10"
+        },
+        {
+          "text": "They search the sources of the rivers\nand bring hidden things to light.",
+          "ID": "11",
+          "comments": [
+            "Septuagint, Aquila and Vulgate; Hebrew They dam up"
+          ]
+        },
+        {
+          "text": "But where can wisdom be found?\nWhere does understanding dwell?",
+          "ID": "12"
+        },
+        {
+          "text": "No mortal comprehends its worth;\nit cannot be found in the land of the living.",
+          "ID": "13"
+        },
+        {
+          "text": "The deep says, “It is not in me”;\nthe sea says, “It is not with me.”",
+          "ID": "14"
+        },
+        {
+          "text": "It cannot be bought with the finest gold,\nnor can its price be weighed out in silver.",
+          "ID": "15"
+        },
+        {
+          "text": "It cannot be bought with the gold of Ophir,\nwith precious onyx or lapis lazuli.",
+          "ID": "16"
+        },
+        {
+          "text": "Neither gold nor crystal can compare with it,\nnor can it be had for jewels of gold.",
+          "ID": "17"
+        },
+        {
+          "text": "Coral and jasper are not worthy of mention;\nthe price of wisdom is beyond rubies.",
+          "ID": "18"
+        },
+        {
+          "text": "The topaz of Cush cannot compare with it;\nit cannot be bought with pure gold.",
+          "ID": "19"
+        },
+        {
+          "text": "Where then does wisdom come from?\nWhere does understanding dwell?",
+          "ID": "20"
+        },
+        {
+          "text": "It is hidden from the eyes of every living thing,\nconcealed even from the birds in the sky.",
+          "ID": "21"
+        },
+        {
+          "text": "Destruction and Death say,\n“Only a rumor of it has reached our ears.”",
+          "ID": "22",
+          "comments": [
+            "Hebrew Abaddon"
+          ]
+        },
+        {
+          "text": "God understands the way to it\nand he alone knows where it dwells,",
+          "ID": "23"
+        },
+        {
+          "text": "for he views the ends of the earth\nand sees everything under the heavens.",
+          "ID": "24"
+        },
+        {
+          "text": "When he established the force of the wind\nand measured out the waters,",
+          "ID": "25"
+        },
+        {
+          "text": "when he made a decree for the rain\nand a path for the thunderstorm,",
+          "ID": "26"
+        },
+        {
+          "text": "then he looked at wisdom and appraised it;\nhe confirmed it and tested it.",
+          "ID": "27"
+        },
+        {
+          "text": "And he said to the human race,\n“The fear of the Lord—that is wisdom,\nand to shun evil is understanding.”",
+          "ID": "28"
+        }
+      ],
+      "ID": "OT:JOB.28",
+      "name": "Job 28"
+    },
+    {
+      "title": "Job’s Final Defense",
+      "text": [
+        {
+          "text": "Job continued his discourse:",
+          "ID": "1"
+        },
+        {
+          "text": "“How I long for the months gone by,\nfor the days when God watched over me,",
+          "ID": "2"
+        },
+        {
+          "text": "when his lamp shone on my head\nand by his light I walked through darkness!",
+          "ID": "3"
+        },
+        {
+          "text": "Oh, for the days when I was in my prime,\nwhen God’s intimate friendship blessed my house,",
+          "ID": "4"
+        },
+        {
+          "text": "when the Almighty was still with me\nand my children were around me,",
+          "ID": "5"
+        },
+        {
+          "text": "when my path was drenched with cream\nand the rock poured out for me streams of olive oil.",
+          "ID": "6"
+        },
+        {
+          "text": "“When I went to the gate of the city\nand took my seat in the public square,",
+          "ID": "7"
+        },
+        {
+          "text": "the young men saw me and stepped aside\nand the old men rose to their feet;",
+          "ID": "8"
+        },
+        {
+          "text": "the chief men refrained from speaking\nand covered their mouths with their hands;",
+          "ID": "9"
+        },
+        {
+          "text": "the voices of the nobles were hushed,\nand their tongues stuck to the roof of their mouths.",
+          "ID": "10"
+        },
+        {
+          "text": "Whoever heard me spoke well of me,\nand those who saw me commended me,",
+          "ID": "11"
+        },
+        {
+          "text": "because I rescued the poor who cried for help,\nand the fatherless who had none to assist them.",
+          "ID": "12"
+        },
+        {
+          "text": "The one who was dying blessed me;\nI made the widow’s heart sing.",
+          "ID": "13"
+        },
+        {
+          "text": "I put on righteousness as my clothing;\njustice was my robe and my turban.",
+          "ID": "14"
+        },
+        {
+          "text": "I was eyes to the blind\nand feet to the lame.",
+          "ID": "15"
+        },
+        {
+          "text": "I was a father to the needy;\nI took up the case of the stranger.",
+          "ID": "16"
+        },
+        {
+          "text": "I broke the fangs of the wicked\nand snatched the victims from their teeth.",
+          "ID": "17"
+        },
+        {
+          "text": "“I thought, ‘I will die in my own house,\nmy days as numerous as the grains of sand.",
+          "ID": "18"
+        },
+        {
+          "text": "My roots will reach to the water,\nand the dew will lie all night on my branches.",
+          "ID": "19"
+        },
+        {
+          "text": "My glory will not fade;\nthe bow will be ever new in my hand.’",
+          "ID": "20"
+        },
+        {
+          "text": "“People listened to me expectantly,\nwaiting in silence for my counsel.",
+          "ID": "21"
+        },
+        {
+          "text": "After I had spoken, they spoke no more;\nmy words fell gently on their ears.",
+          "ID": "22"
+        },
+        {
+          "text": "They waited for me as for showers\nand drank in my words as the spring rain.",
+          "ID": "23"
+        },
+        {
+          "text": "When I smiled at them, they scarcely believed it;\nthe light of my face was precious to them.",
+          "ID": "24",
+          "comments": [
+            "The meaning of the Hebrew for this clause is uncertain."
+          ]
+        },
+        {
+          "text": "I chose the way for them and sat as their chief;\nI dwelt as a king among his troops;\nI was like one who comforts mourners.",
+          "ID": "25"
+        }
+      ],
+      "ID": "OT:JOB.29",
+      "name": "Job 29"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“But now they mock me,\nmen younger than I,\nwhose fathers I would have disdained\nto put with my sheep dogs.",
+          "ID": "1"
+        },
+        {
+          "text": "Of what use was the strength of their hands to me,\nsince their vigor had gone from them?",
+          "ID": "2"
+        },
+        {
+          "text": "Haggard from want and hunger,\nthey roamed the parched land\nin desolate wastelands at night.",
+          "ID": "3",
+          "comments": [
+            "Or gnawed"
+          ]
+        },
+        {
+          "text": "In the brush they gathered salt herbs,\nand their food was the root of the broom bush.",
+          "ID": "4",
+          "comments": [
+            "Or fuel"
+          ]
+        },
+        {
+          "text": "They were banished from human society,\nshouted at as if they were thieves.",
+          "ID": "5"
+        },
+        {
+          "text": "They were forced to live in the dry stream beds,\namong the rocks and in holes in the ground.",
+          "ID": "6"
+        },
+        {
+          "text": "They brayed among the bushes\nand huddled in the undergrowth.",
+          "ID": "7"
+        },
+        {
+          "text": "A base and nameless brood,\nthey were driven out of the land.",
+          "ID": "8"
+        },
+        {
+          "text": "“And now those young men mock me in song;\nI have become a byword among them.",
+          "ID": "9"
+        },
+        {
+          "text": "They detest me and keep their distance;\nthey do not hesitate to spit in my face.",
+          "ID": "10"
+        },
+        {
+          "text": "Now that God has unstrung my bow and afflicted me,\nthey throw off restraint in my presence.",
+          "ID": "11"
+        },
+        {
+          "text": "On my right the tribe attacks;\nthey lay snares for my feet,\nthey build their siege ramps against me.",
+          "ID": "12",
+          "comments": [
+            "The meaning of the Hebrew for this word is uncertain."
+          ]
+        },
+        {
+          "text": "They break up my road;\nthey succeed in destroying me.\n‘No one can help him,’ they say.",
+          "ID": "13"
+        },
+        {
+          "text": "They advance as through a gaping breach;\namid the ruins they come rolling in.",
+          "ID": "14"
+        },
+        {
+          "text": "Terrors overwhelm me;\nmy dignity is driven away as by the wind,\nmy safety vanishes like a cloud.",
+          "ID": "15"
+        },
+        {
+          "text": "“And now my life ebbs away;\ndays of suffering grip me.",
+          "ID": "16"
+        },
+        {
+          "text": "Night pierces my bones;\nmy gnawing pains never rest.",
+          "ID": "17"
+        },
+        {
+          "text": "In his great power God becomes like clothing to me;\nhe binds me like the neck of my garment.",
+          "ID": "18",
+          "comments": [
+            "Hebrew; Septuagint power he grasps my clothing"
+          ]
+        },
+        {
+          "text": "He throws me into the mud,\nand I am reduced to dust and ashes.",
+          "ID": "19"
+        },
+        {
+          "text": "“I cry out to you, God, but you do not answer;\nI stand up, but you merely look at me.",
+          "ID": "20"
+        },
+        {
+          "text": "You turn on me ruthlessly;\nwith the might of your hand you attack me.",
+          "ID": "21"
+        },
+        {
+          "text": "You snatch me up and drive me before the wind;\nyou toss me about in the storm.",
+          "ID": "22"
+        },
+        {
+          "text": "I know you will bring me down to death,\nto the place appointed for all the living.",
+          "ID": "23"
+        },
+        {
+          "text": "“Surely no one lays a hand on a broken man\nwhen he cries for help in his distress.",
+          "ID": "24"
+        },
+        {
+          "text": "Have I not wept for those in trouble?\nHas not my soul grieved for the poor?",
+          "ID": "25"
+        },
+        {
+          "text": "Yet when I hoped for good, evil came;\nwhen I looked for light, then came darkness.",
+          "ID": "26"
+        },
+        {
+          "text": "The churning inside me never stops;\ndays of suffering confront me.",
+          "ID": "27"
+        },
+        {
+          "text": "I go about blackened, but not by the sun;\nI stand up in the assembly and cry for help.",
+          "ID": "28"
+        },
+        {
+          "text": "I have become a brother of jackals,\na companion of owls.",
+          "ID": "29"
+        },
+        {
+          "text": "My skin grows black and peels;\nmy body burns with fever.",
+          "ID": "30"
+        },
+        {
+          "text": "My lyre is tuned to mourning,\nand my pipe to the sound of wailing.",
+          "ID": "31"
+        }
+      ],
+      "ID": "OT:JOB.30",
+      "name": "Job 30"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“I made a covenant with my eyes\nnot to look lustfully at a young woman.",
+          "ID": "1"
+        },
+        {
+          "text": "For what is our lot from God above,\nour heritage from the Almighty on high?",
+          "ID": "2"
+        },
+        {
+          "text": "Is it not ruin for the wicked,\ndisaster for those who do wrong?",
+          "ID": "3"
+        },
+        {
+          "text": "Does he not see my ways\nand count my every step?",
+          "ID": "4"
+        },
+        {
+          "text": "“If I have walked with falsehood\nor my foot has hurried after deceit—",
+          "ID": "5"
+        },
+        {
+          "text": "let God weigh me in honest scales\nand he will know that I am blameless—",
+          "ID": "6"
+        },
+        {
+          "text": "if my steps have turned from the path,\nif my heart has been led by my eyes,\nor if my hands have been defiled,",
+          "ID": "7"
+        },
+        {
+          "text": "then may others eat what I have sown,\nand may my crops be uprooted.",
+          "ID": "8"
+        },
+        {
+          "text": "“If my heart has been enticed by a woman,\nor if I have lurked at my neighbor’s door,",
+          "ID": "9"
+        },
+        {
+          "text": "then may my wife grind another man’s grain,\nand may other men sleep with her.",
+          "ID": "10"
+        },
+        {
+          "text": "For that would have been wicked,\na sin to be judged.",
+          "ID": "11"
+        },
+        {
+          "text": "It is a fire that burns to Destruction;\nit would have uprooted my harvest.",
+          "ID": "12",
+          "comments": [
+            "Hebrew Abaddon"
+          ]
+        },
+        {
+          "text": "“If I have denied justice to any of my servants,\nwhether male or female,\nwhen they had a grievance against me,",
+          "ID": "13"
+        },
+        {
+          "text": "what will I do when God confronts me?\nWhat will I answer when called to account?",
+          "ID": "14"
+        },
+        {
+          "text": "Did not he who made me in the womb make them?\nDid not the same one form us both within our mothers?",
+          "ID": "15"
+        },
+        {
+          "text": "“If I have denied the desires of the poor\nor let the eyes of the widow grow weary,",
+          "ID": "16"
+        },
+        {
+          "text": "if I have kept my bread to myself,\nnot sharing it with the fatherless—",
+          "ID": "17"
+        },
+        {
+          "text": "but from my youth I reared them as a father would,\nand from my birth I guided the widow—",
+          "ID": "18"
+        },
+        {
+          "text": "if I have seen anyone perishing for lack of clothing,\nor the needy without garments,",
+          "ID": "19"
+        },
+        {
+          "text": "and their hearts did not bless me\nfor warming them with the fleece from my sheep,",
+          "ID": "20"
+        },
+        {
+          "text": "if I have raised my hand against the fatherless,\nknowing that I had influence in court,",
+          "ID": "21"
+        },
+        {
+          "text": "then let my arm fall from the shoulder,\nlet it be broken off at the joint.",
+          "ID": "22"
+        },
+        {
+          "text": "For I dreaded destruction from God,\nand for fear of his splendor I could not do such things.",
+          "ID": "23"
+        },
+        {
+          "text": "“If I have put my trust in gold\nor said to pure gold, ‘You are my security,’",
+          "ID": "24"
+        },
+        {
+          "text": "if I have rejoiced over my great wealth,\nthe fortune my hands had gained,",
+          "ID": "25"
+        },
+        {
+          "text": "if I have regarded the sun in its radiance\nor the moon moving in splendor,",
+          "ID": "26"
+        },
+        {
+          "text": "so that my heart was secretly enticed\nand my hand offered them a kiss of homage,",
+          "ID": "27"
+        },
+        {
+          "text": "then these also would be sins to be judged,\nfor I would have been unfaithful to God on high.",
+          "ID": "28"
+        },
+        {
+          "text": "“If I have rejoiced at my enemy’s misfortune\nor gloated over the trouble that came to him—",
+          "ID": "29"
+        },
+        {
+          "text": "I have not allowed my mouth to sin\nby invoking a curse against their life—",
+          "ID": "30"
+        },
+        {
+          "text": "if those of my household have never said,\n‘Who has not been filled with Job’s meat?’—",
+          "ID": "31"
+        },
+        {
+          "text": "but no stranger had to spend the night in the street,\nfor my door was always open to the traveler—",
+          "ID": "32"
+        },
+        {
+          "text": "if I have concealed my sin as people do,\nby hiding my guilt in my heart",
+          "ID": "33",
+          "comments": [
+            "Or as Adam did"
+          ]
+        },
+        {
+          "text": "because I so feared the crowd\nand so dreaded the contempt of the clans\nthat I kept silent and would not go outside—",
+          "ID": "34"
+        },
+        {
+          "text": "(“Oh, that I had someone to hear me!\nI sign now my defense—let the Almighty answer me;\nlet my accuser put his indictment in writing.",
+          "ID": "35"
+        },
+        {
+          "text": "Surely I would wear it on my shoulder,\nI would put it on like a crown.",
+          "ID": "36"
+        },
+        {
+          "text": "I would give him an account of my every step;\nI would present it to him as to a ruler.)—",
+          "ID": "37"
+        },
+        {
+          "text": "“if my land cries out against me\nand all its furrows are wet with tears,",
+          "ID": "38"
+        },
+        {
+          "text": "if I have devoured its yield without payment\nor broken the spirit of its tenants,",
+          "ID": "39"
+        },
+        {
+          "text": "then let briers come up instead of wheat\nand stinkweed instead of barley.”\nThe words of Job are ended.",
+          "ID": "40"
+        }
+      ],
+      "ID": "OT:JOB.31",
+      "name": "Job 31"
+    },
+    {
+      "title": "Elihu",
+      "text": [
+        {
+          "text": "So these three men stopped answering Job, because he was righteous in his own eyes.",
+          "ID": "1"
+        },
+        {
+          "text": "But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God.",
+          "ID": "2"
+        },
+        {
+          "text": "He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him.",
+          "ID": "3",
+          "comments": [
+            "Masoretic Text; an ancient Hebrew scribal tradition Job, and so had condemned God"
+          ]
+        },
+        {
+          "text": "Now Elihu had waited before speaking to Job because they were older than he.",
+          "ID": "4"
+        },
+        {
+          "text": "But when he saw that the three men had nothing more to say, his anger was aroused.",
+          "ID": "5"
+        },
+        {
+          "text": "So Elihu son of Barakel the Buzite said:\n“I am young in years,\nand you are old;\nthat is why I was fearful,\nnot daring to tell you what I know.",
+          "ID": "6"
+        },
+        {
+          "text": "I thought, ‘Age should speak;\nadvanced years should teach wisdom.’",
+          "ID": "7"
+        },
+        {
+          "text": "But it is the spirit in a person,\nthe breath of the Almighty, that gives them understanding.",
+          "ID": "8",
+          "comments": [
+            "Or Spirit; also in verse 18"
+          ]
+        },
+        {
+          "text": "It is not only the old who are wise,\nnot only the aged who understand what is right.",
+          "ID": "9",
+          "comments": [
+            "Or many; or great"
+          ]
+        },
+        {
+          "text": "“Therefore I say: Listen to me;\nI too will tell you what I know.",
+          "ID": "10"
+        },
+        {
+          "text": "I waited while you spoke,\nI listened to your reasoning;\nwhile you were searching for words,",
+          "ID": "11"
+        },
+        {
+          "text": "    I gave you my full attention.\nBut not one of you has proved Job wrong;\nnone of you has answered his arguments.",
+          "ID": "12"
+        },
+        {
+          "text": "Do not say, ‘We have found wisdom;\nlet God, not a man, refute him.’",
+          "ID": "13"
+        },
+        {
+          "text": "But Job has not marshaled his words against me,\nand I will not answer him with your arguments.",
+          "ID": "14"
+        },
+        {
+          "text": "“They are dismayed and have no more to say;\nwords have failed them.",
+          "ID": "15"
+        },
+        {
+          "text": "Must I wait, now that they are silent,\nnow that they stand there with no reply?",
+          "ID": "16"
+        },
+        {
+          "text": "I too will have my say;\nI too will tell what I know.",
+          "ID": "17"
+        },
+        {
+          "text": "For I am full of words,\nand the spirit within me compels me;",
+          "ID": "18"
+        },
+        {
+          "text": "inside I am like bottled-up wine,\nlike new wineskins ready to burst.",
+          "ID": "19"
+        },
+        {
+          "text": "I must speak and find relief;\nI must open my lips and reply.",
+          "ID": "20"
+        },
+        {
+          "text": "I will show no partiality,\nnor will I flatter anyone;",
+          "ID": "21"
+        },
+        {
+          "text": "for if I were skilled in flattery,\nmy Maker would soon take me away.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:JOB.32",
+      "name": "Job 32"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“But now, Job, listen to my words;\npay attention to everything I say.",
+          "ID": "1"
+        },
+        {
+          "text": "I am about to open my mouth;\nmy words are on the tip of my tongue.",
+          "ID": "2"
+        },
+        {
+          "text": "My words come from an upright heart;\nmy lips sincerely speak what I know.",
+          "ID": "3"
+        },
+        {
+          "text": "The Spirit of God has made me;\nthe breath of the Almighty gives me life.",
+          "ID": "4"
+        },
+        {
+          "text": "Answer me then, if you can;\nstand up and argue your case before me.",
+          "ID": "5"
+        },
+        {
+          "text": "I am the same as you in God’s sight;\nI too am a piece of clay.",
+          "ID": "6"
+        },
+        {
+          "text": "No fear of me should alarm you,\nnor should my hand be heavy on you.",
+          "ID": "7"
+        },
+        {
+          "text": "“But you have said in my hearing—\nI heard the very words—",
+          "ID": "8"
+        },
+        {
+          "text": "‘I am pure, I have done no wrong;\nI am clean and free from sin.",
+          "ID": "9"
+        },
+        {
+          "text": "Yet God has found fault with me;\nhe considers me his enemy.",
+          "ID": "10"
+        },
+        {
+          "text": "He fastens my feet in shackles;\nhe keeps close watch on all my paths.’",
+          "ID": "11"
+        },
+        {
+          "text": "“But I tell you, in this you are not right,\nfor God is greater than any mortal.",
+          "ID": "12"
+        },
+        {
+          "text": "Why do you complain to him\nthat he responds to no one’s words?",
+          "ID": "13",
+          "comments": [
+            "Or that he does not answer for any of his actions"
+          ]
+        },
+        {
+          "text": "For God does speak—now one way, now another—\nthough no one perceives it.",
+          "ID": "14"
+        },
+        {
+          "text": "In a dream, in a vision of the night,\nwhen deep sleep falls on people\nas they slumber in their beds,",
+          "ID": "15"
+        },
+        {
+          "text": "he may speak in their ears\nand terrify them with warnings,",
+          "ID": "16"
+        },
+        {
+          "text": "to turn them from wrongdoing\nand keep them from pride,",
+          "ID": "17"
+        },
+        {
+          "text": "to preserve them from the pit,\ntheir lives from perishing by the sword.",
+          "ID": "18",
+          "comments": [
+            "Or from crossing the river"
+          ]
+        },
+        {
+          "text": "“Or someone may be chastened on a bed of pain\nwith constant distress in their bones,",
+          "ID": "19"
+        },
+        {
+          "text": "so that their body finds food repulsive\nand their soul loathes the choicest meal.",
+          "ID": "20"
+        },
+        {
+          "text": "Their flesh wastes away to nothing,\nand their bones, once hidden, now stick out.",
+          "ID": "21"
+        },
+        {
+          "text": "They draw near to the pit,\nand their life to the messengers of death.",
+          "ID": "22",
+          "comments": [
+            "Or to the place of the dead"
+          ]
+        },
+        {
+          "text": "Yet if there is an angel at their side,\na messenger, one out of a thousand,\nsent to tell them how to be upright,",
+          "ID": "23"
+        },
+        {
+          "text": "and he is gracious to that person and says to God,\n‘Spare them from going down to the pit;\nI have found a ransom for them—",
+          "ID": "24"
+        },
+        {
+          "text": "let their flesh be renewed like a child’s;\nlet them be restored as in the days of their youth’—",
+          "ID": "25"
+        },
+        {
+          "text": "then that person can pray to God and find favor with him,\nthey will see God’s face and shout for joy;\nhe will restore them to full well-being.",
+          "ID": "26"
+        },
+        {
+          "text": "And they will go to others and say,\n‘I have sinned, I have perverted what is right,\nbut I did not get what I deserved.",
+          "ID": "27"
+        },
+        {
+          "text": "God has delivered me from going down to the pit,\nand I shall live to enjoy the light of life.’",
+          "ID": "28"
+        },
+        {
+          "text": "“God does all these things to a person—\ntwice, even three times—",
+          "ID": "29"
+        },
+        {
+          "text": "to turn them back from the pit,\nthat the light of life may shine on them.",
+          "ID": "30"
+        },
+        {
+          "text": "“Pay attention, Job, and listen to me;\nbe silent, and I will speak.",
+          "ID": "31"
+        },
+        {
+          "text": "If you have anything to say, answer me;\nspeak up, for I want to vindicate you.",
+          "ID": "32"
+        },
+        {
+          "text": "But if not, then listen to me;\nbe silent, and I will teach you wisdom.”",
+          "ID": "33"
+        }
+      ],
+      "ID": "OT:JOB.33",
+      "name": "Job 33"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "Then Elihu said:",
+          "ID": "1"
+        },
+        {
+          "text": "“Hear my words, you wise men;\nlisten to me, you men of learning.",
+          "ID": "2"
+        },
+        {
+          "text": "For the ear tests words\nas the tongue tastes food.",
+          "ID": "3"
+        },
+        {
+          "text": "Let us discern for ourselves what is right;\nlet us learn together what is good.",
+          "ID": "4"
+        },
+        {
+          "text": "“Job says, ‘I am innocent,\nbut God denies me justice.",
+          "ID": "5"
+        },
+        {
+          "text": "Although I am right,\nI am considered a liar;\nalthough I am guiltless,\nhis arrow inflicts an incurable wound.’",
+          "ID": "6"
+        },
+        {
+          "text": "Is there anyone like Job,\nwho drinks scorn like water?",
+          "ID": "7"
+        },
+        {
+          "text": "He keeps company with evildoers;\nhe associates with the wicked.",
+          "ID": "8"
+        },
+        {
+          "text": "For he says, ‘There is no profit\nin trying to please God.’",
+          "ID": "9"
+        },
+        {
+          "text": "“So listen to me, you men of understanding.\nFar be it from God to do evil,\nfrom the Almighty to do wrong.",
+          "ID": "10"
+        },
+        {
+          "text": "He repays everyone for what they have done;\nhe brings on them what their conduct deserves.",
+          "ID": "11"
+        },
+        {
+          "text": "It is unthinkable that God would do wrong,\nthat the Almighty would pervert justice.",
+          "ID": "12"
+        },
+        {
+          "text": "Who appointed him over the earth?\nWho put him in charge of the whole world?",
+          "ID": "13"
+        },
+        {
+          "text": "If it were his intention\nand he withdrew his spirit and breath,",
+          "ID": "14",
+          "comments": [
+            "Or Spirit"
+          ]
+        },
+        {
+          "text": "all humanity would perish together\nand mankind would return to the dust.",
+          "ID": "15"
+        },
+        {
+          "text": "“If you have understanding, hear this;\nlisten to what I say.",
+          "ID": "16"
+        },
+        {
+          "text": "Can someone who hates justice govern?\nWill you condemn the just and mighty One?",
+          "ID": "17"
+        },
+        {
+          "text": "Is he not the One who says to kings, ‘You are worthless,’\nand to nobles, ‘You are wicked,’",
+          "ID": "18"
+        },
+        {
+          "text": "who shows no partiality to princes\nand does not favor the rich over the poor,\nfor they are all the work of his hands?",
+          "ID": "19"
+        },
+        {
+          "text": "They die in an instant, in the middle of the night;\nthe people are shaken and they pass away;\nthe mighty are removed without human hand.",
+          "ID": "20"
+        },
+        {
+          "text": "“His eyes are on the ways of mortals;\nhe sees their every step.",
+          "ID": "21"
+        },
+        {
+          "text": "There is no deep shadow, no utter darkness,\nwhere evildoers can hide.",
+          "ID": "22"
+        },
+        {
+          "text": "God has no need to examine people further,\nthat they should come before him for judgment.",
+          "ID": "23"
+        },
+        {
+          "text": "Without inquiry he shatters the mighty\nand sets up others in their place.",
+          "ID": "24"
+        },
+        {
+          "text": "Because he takes note of their deeds,\nhe overthrows them in the night and they are crushed.",
+          "ID": "25"
+        },
+        {
+          "text": "He punishes them for their wickedness\nwhere everyone can see them,",
+          "ID": "26"
+        },
+        {
+          "text": "because they turned from following him\nand had no regard for any of his ways.",
+          "ID": "27"
+        },
+        {
+          "text": "They caused the cry of the poor to come before him,\nso that he heard the cry of the needy.",
+          "ID": "28"
+        },
+        {
+          "text": "But if he remains silent, who can condemn him?\nIf he hides his face, who can see him?\nYet he is over individual and nation alike,",
+          "ID": "29"
+        },
+        {
+          "text": "    to keep the godless from ruling,\nfrom laying snares for the people.",
+          "ID": "30"
+        },
+        {
+          "text": "“Suppose someone says to God,\n‘I am guilty but will offend no more.",
+          "ID": "31"
+        },
+        {
+          "text": "Teach me what I cannot see;\nif I have done wrong, I will not do so again.’",
+          "ID": "32"
+        },
+        {
+          "text": "Should God then reward you on your terms,\nwhen you refuse to repent?\nYou must decide, not I;\nso tell me what you know.",
+          "ID": "33"
+        },
+        {
+          "text": "“Men of understanding declare,\nwise men who hear me say to me,",
+          "ID": "34"
+        },
+        {
+          "text": "‘Job speaks without knowledge;\nhis words lack insight.’",
+          "ID": "35"
+        },
+        {
+          "text": "Oh, that Job might be tested to the utmost\nfor answering like a wicked man!",
+          "ID": "36"
+        },
+        {
+          "text": "To his sin he adds rebellion;\nscornfully he claps his hands among us\nand multiplies his words against God.”",
+          "ID": "37"
+        }
+      ],
+      "ID": "OT:JOB.34",
+      "name": "Job 34"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "Then Elihu said:",
+          "ID": "1"
+        },
+        {
+          "text": "“Do you think this is just?\nYou say, ‘I am in the right, not God.’",
+          "ID": "2"
+        },
+        {
+          "text": "Yet you ask him, ‘What profit is it to me,\nand what do I gain by not sinning?’",
+          "ID": "3",
+          "comments": [
+            "Or you"
+          ]
+        },
+        {
+          "text": "“I would like to reply to you\nand to your friends with you.",
+          "ID": "4"
+        },
+        {
+          "text": "Look up at the heavens and see;\ngaze at the clouds so high above you.",
+          "ID": "5"
+        },
+        {
+          "text": "If you sin, how does that affect him?\nIf your sins are many, what does that do to him?",
+          "ID": "6"
+        },
+        {
+          "text": "If you are righteous, what do you give to him,\nor what does he receive from your hand?",
+          "ID": "7"
+        },
+        {
+          "text": "Your wickedness only affects humans like yourself,\nand your righteousness only other people.",
+          "ID": "8"
+        },
+        {
+          "text": "“People cry out under a load of oppression;\nthey plead for relief from the arm of the powerful.",
+          "ID": "9"
+        },
+        {
+          "text": "But no one says, ‘Where is God my Maker,\nwho gives songs in the night,",
+          "ID": "10"
+        },
+        {
+          "text": "who teaches us more than he teaches the beasts of the earth\nand makes us wiser than the birds in the sky?’",
+          "ID": "11",
+          "comments": [
+            "Or night, / 11 who teaches us by",
+            "Or us wise by"
+          ]
+        },
+        {
+          "text": "He does not answer when people cry out\nbecause of the arrogance of the wicked.",
+          "ID": "12"
+        },
+        {
+          "text": "Indeed, God does not listen to their empty plea;\nthe Almighty pays no attention to it.",
+          "ID": "13"
+        },
+        {
+          "text": "How much less, then, will he listen\nwhen you say that you do not see him,\nthat your case is before him\nand you must wait for him,",
+          "ID": "14"
+        },
+        {
+          "text": "and further, that his anger never punishes\nand he does not take the least notice of wickedness.",
+          "ID": "15",
+          "comments": [
+            "Symmachus, Theodotion and Vulgate; the meaning of the Hebrew for this word is uncertain."
+          ]
+        },
+        {
+          "text": "So Job opens his mouth with empty talk;\nwithout knowledge he multiplies words.”",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:JOB.35",
+      "name": "Job 35"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "Elihu continued:",
+          "ID": "1"
+        },
+        {
+          "text": "“Bear with me a little longer and I will show you\nthat there is more to be said in God’s behalf.",
+          "ID": "2"
+        },
+        {
+          "text": "I get my knowledge from afar;\nI will ascribe justice to my Maker.",
+          "ID": "3"
+        },
+        {
+          "text": "Be assured that my words are not false;\none who has perfect knowledge is with you.",
+          "ID": "4"
+        },
+        {
+          "text": "“God is mighty, but despises no one;\nhe is mighty, and firm in his purpose.",
+          "ID": "5"
+        },
+        {
+          "text": "He does not keep the wicked alive\nbut gives the afflicted their rights.",
+          "ID": "6"
+        },
+        {
+          "text": "He does not take his eyes off the righteous;\nhe enthrones them with kings\nand exalts them forever.",
+          "ID": "7"
+        },
+        {
+          "text": "But if people are bound in chains,\nheld fast by cords of affliction,",
+          "ID": "8"
+        },
+        {
+          "text": "he tells them what they have done—\nthat they have sinned arrogantly.",
+          "ID": "9"
+        },
+        {
+          "text": "He makes them listen to correction\nand commands them to repent of their evil.",
+          "ID": "10"
+        },
+        {
+          "text": "If they obey and serve him,\nthey will spend the rest of their days in prosperity\nand their years in contentment.",
+          "ID": "11"
+        },
+        {
+          "text": "But if they do not listen,\nthey will perish by the sword\nand die without knowledge.",
+          "ID": "12",
+          "comments": [
+            "Or will cross the river"
+          ]
+        },
+        {
+          "text": "“The godless in heart harbor resentment;\neven when he fetters them, they do not cry for help.",
+          "ID": "13"
+        },
+        {
+          "text": "They die in their youth,\namong male prostitutes of the shrines.",
+          "ID": "14"
+        },
+        {
+          "text": "But those who suffer he delivers in their suffering;\nhe speaks to them in their affliction.",
+          "ID": "15"
+        },
+        {
+          "text": "“He is wooing you from the jaws of distress\nto a spacious place free from restriction,\nto the comfort of your table laden with choice food.",
+          "ID": "16"
+        },
+        {
+          "text": "But now you are laden with the judgment due the wicked;\njudgment and justice have taken hold of you.",
+          "ID": "17"
+        },
+        {
+          "text": "Be careful that no one entices you by riches;\ndo not let a large bribe turn you aside.",
+          "ID": "18"
+        },
+        {
+          "text": "Would your wealth or even all your mighty efforts\nsustain you so you would not be in distress?",
+          "ID": "19"
+        },
+        {
+          "text": "Do not long for the night,\nto drag people away from their homes.",
+          "ID": "20",
+          "comments": [
+            "The meaning of the Hebrew for verses 18-20 is uncertain."
+          ]
+        },
+        {
+          "text": "Beware of turning to evil,\nwhich you seem to prefer to affliction.",
+          "ID": "21"
+        },
+        {
+          "text": "“God is exalted in his power.\nWho is a teacher like him?",
+          "ID": "22"
+        },
+        {
+          "text": "Who has prescribed his ways for him,\nor said to him, ‘You have done wrong’?",
+          "ID": "23"
+        },
+        {
+          "text": "Remember to extol his work,\nwhich people have praised in song.",
+          "ID": "24"
+        },
+        {
+          "text": "All humanity has seen it;\nmortals gaze on it from afar.",
+          "ID": "25"
+        },
+        {
+          "text": "How great is God—beyond our understanding!\nThe number of his years is past finding out.",
+          "ID": "26"
+        },
+        {
+          "text": "“He draws up the drops of water,\nwhich distill as rain to the streams;",
+          "ID": "27",
+          "comments": [
+            "Or distill from the mist as rain"
+          ]
+        },
+        {
+          "text": "the clouds pour down their moisture\nand abundant showers fall on mankind.",
+          "ID": "28"
+        },
+        {
+          "text": "Who can understand how he spreads out the clouds,\nhow he thunders from his pavilion?",
+          "ID": "29"
+        },
+        {
+          "text": "See how he scatters his lightning about him,\nbathing the depths of the sea.",
+          "ID": "30"
+        },
+        {
+          "text": "This is the way he governs the nations\nand provides food in abundance.",
+          "ID": "31",
+          "comments": [
+            "Or nourishes"
+          ]
+        },
+        {
+          "text": "He fills his hands with lightning\nand commands it to strike its mark.",
+          "ID": "32"
+        },
+        {
+          "text": "His thunder announces the coming storm;\neven the cattle make known its approach.",
+          "ID": "33",
+          "comments": [
+            "Or announces his coming— / the One zealous against evil"
+          ]
+        }
+      ],
+      "ID": "OT:JOB.36",
+      "name": "Job 36"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“At this my heart pounds\nand leaps from its place.",
+          "ID": "1"
+        },
+        {
+          "text": "Listen! Listen to the roar of his voice,\nto the rumbling that comes from his mouth.",
+          "ID": "2"
+        },
+        {
+          "text": "He unleashes his lightning beneath the whole heaven\nand sends it to the ends of the earth.",
+          "ID": "3"
+        },
+        {
+          "text": "After that comes the sound of his roar;\nhe thunders with his majestic voice.\nWhen his voice resounds,\nhe holds nothing back.",
+          "ID": "4"
+        },
+        {
+          "text": "God’s voice thunders in marvelous ways;\nhe does great things beyond our understanding.",
+          "ID": "5"
+        },
+        {
+          "text": "He says to the snow, ‘Fall on the earth,’\nand to the rain shower, ‘Be a mighty downpour.’",
+          "ID": "6"
+        },
+        {
+          "text": "So that everyone he has made may know his work,\nhe stops all people from their labor.",
+          "ID": "7",
+          "comments": [
+            "Or work, / he fills all people with fear by his power"
+          ]
+        },
+        {
+          "text": "The animals take cover;\nthey remain in their dens.",
+          "ID": "8"
+        },
+        {
+          "text": "The tempest comes out from its chamber,\nthe cold from the driving winds.",
+          "ID": "9"
+        },
+        {
+          "text": "The breath of God produces ice,\nand the broad waters become frozen.",
+          "ID": "10"
+        },
+        {
+          "text": "He loads the clouds with moisture;\nhe scatters his lightning through them.",
+          "ID": "11"
+        },
+        {
+          "text": "At his direction they swirl around\nover the face of the whole earth\nto do whatever he commands them.",
+          "ID": "12"
+        },
+        {
+          "text": "He brings the clouds to punish people,\nor to water his earth and show his love.",
+          "ID": "13"
+        },
+        {
+          "text": "“Listen to this, Job;\nstop and consider God’s wonders.",
+          "ID": "14"
+        },
+        {
+          "text": "Do you know how God controls the clouds\nand makes his lightning flash?",
+          "ID": "15"
+        },
+        {
+          "text": "Do you know how the clouds hang poised,\nthose wonders of him who has perfect knowledge?",
+          "ID": "16"
+        },
+        {
+          "text": "You who swelter in your clothes\nwhen the land lies hushed under the south wind,",
+          "ID": "17"
+        },
+        {
+          "text": "can you join him in spreading out the skies,\nhard as a mirror of cast bronze?",
+          "ID": "18"
+        },
+        {
+          "text": "“Tell us what we should say to him;\nwe cannot draw up our case because of our darkness.",
+          "ID": "19"
+        },
+        {
+          "text": "Should he be told that I want to speak?\nWould anyone ask to be swallowed up?",
+          "ID": "20"
+        },
+        {
+          "text": "Now no one can look at the sun,\nbright as it is in the skies\nafter the wind has swept them clean.",
+          "ID": "21"
+        },
+        {
+          "text": "Out of the north he comes in golden splendor;\nGod comes in awesome majesty.",
+          "ID": "22"
+        },
+        {
+          "text": "The Almighty is beyond our reach and exalted in power;\nin his justice and great righteousness, he does not oppress.",
+          "ID": "23"
+        },
+        {
+          "text": "Therefore, people revere him,\nfor does he not have regard for all the wise in heart?”",
+          "ID": "24",
+          "comments": [
+            "Or for he does not have regard for any who think they are wise."
+          ]
+        }
+      ],
+      "ID": "OT:JOB.37",
+      "name": "Job 37"
+    },
+    {
+      "title": "The Lord Speaks",
+      "text": [
+        {
+          "text": "Then the Lord spoke to Job out of the storm. He said:",
+          "ID": "1"
+        },
+        {
+          "text": "“Who is this that obscures my plans\nwith words without knowledge?",
+          "ID": "2"
+        },
+        {
+          "text": "Brace yourself like a man;\nI will question you,\nand you shall answer me.",
+          "ID": "3"
+        },
+        {
+          "text": "“Where were you when I laid the earth’s foundation?\nTell me, if you understand.",
+          "ID": "4"
+        },
+        {
+          "text": "Who marked off its dimensions? Surely you know!\nWho stretched a measuring line across it?",
+          "ID": "5"
+        },
+        {
+          "text": "On what were its footings set,\nor who laid its cornerstone—",
+          "ID": "6"
+        },
+        {
+          "text": "while the morning stars sang together\nand all the angels shouted for joy?",
+          "ID": "7",
+          "comments": [
+            "Hebrew the sons of God"
+          ]
+        },
+        {
+          "text": "“Who shut up the sea behind doors\nwhen it burst forth from the womb,",
+          "ID": "8"
+        },
+        {
+          "text": "when I made the clouds its garment\nand wrapped it in thick darkness,",
+          "ID": "9"
+        },
+        {
+          "text": "when I fixed limits for it\nand set its doors and bars in place,",
+          "ID": "10"
+        },
+        {
+          "text": "when I said, ‘This far you may come and no farther;\nhere is where your proud waves halt’?",
+          "ID": "11"
+        },
+        {
+          "text": "“Have you ever given orders to the morning,\nor shown the dawn its place,",
+          "ID": "12"
+        },
+        {
+          "text": "that it might take the earth by the edges\nand shake the wicked out of it?",
+          "ID": "13"
+        },
+        {
+          "text": "The earth takes shape like clay under a seal;\nits features stand out like those of a garment.",
+          "ID": "14"
+        },
+        {
+          "text": "The wicked are denied their light,\nand their upraised arm is broken.",
+          "ID": "15"
+        },
+        {
+          "text": "“Have you journeyed to the springs of the sea\nor walked in the recesses of the deep?",
+          "ID": "16"
+        },
+        {
+          "text": "Have the gates of death been shown to you?\nHave you seen the gates of the deepest darkness?",
+          "ID": "17"
+        },
+        {
+          "text": "Have you comprehended the vast expanses of the earth?\nTell me, if you know all this.",
+          "ID": "18"
+        },
+        {
+          "text": "“What is the way to the abode of light?\nAnd where does darkness reside?",
+          "ID": "19"
+        },
+        {
+          "text": "Can you take them to their places?\nDo you know the paths to their dwellings?",
+          "ID": "20"
+        },
+        {
+          "text": "Surely you know, for you were already born!\nYou have lived so many years!",
+          "ID": "21"
+        },
+        {
+          "text": "“Have you entered the storehouses of the snow\nor seen the storehouses of the hail,",
+          "ID": "22"
+        },
+        {
+          "text": "which I reserve for times of trouble,\nfor days of war and battle?",
+          "ID": "23"
+        },
+        {
+          "text": "What is the way to the place where the lightning is dispersed,\nor the place where the east winds are scattered over the earth?",
+          "ID": "24"
+        },
+        {
+          "text": "Who cuts a channel for the torrents of rain,\nand a path for the thunderstorm,",
+          "ID": "25"
+        },
+        {
+          "text": "to water a land where no one lives,\nan uninhabited desert,",
+          "ID": "26"
+        },
+        {
+          "text": "to satisfy a desolate wasteland\nand make it sprout with grass?",
+          "ID": "27"
+        },
+        {
+          "text": "Does the rain have a father?\nWho fathers the drops of dew?",
+          "ID": "28"
+        },
+        {
+          "text": "From whose womb comes the ice?\nWho gives birth to the frost from the heavens",
+          "ID": "29"
+        },
+        {
+          "text": "when the waters become hard as stone,\nwhen the surface of the deep is frozen?",
+          "ID": "30"
+        },
+        {
+          "text": "“Can you bind the chains of the Pleiades?\nCan you loosen Orion’s belt?",
+          "ID": "31",
+          "comments": [
+            "Septuagint; Hebrew beauty"
+          ]
+        },
+        {
+          "text": "Can you bring forth the constellations in their seasons\nor lead out the Bear with its cubs?",
+          "ID": "32",
+          "comments": [
+            "Or the morning star in its season",
+            "Or out Leo"
+          ]
+        },
+        {
+          "text": "Do you know the laws of the heavens?\nCan you set up God’s dominion over the earth?",
+          "ID": "33",
+          "comments": [
+            "Or their"
+          ]
+        },
+        {
+          "text": "“Can you raise your voice to the clouds\nand cover yourself with a flood of water?",
+          "ID": "34"
+        },
+        {
+          "text": "Do you send the lightning bolts on their way?\nDo they report to you, ‘Here we are’?",
+          "ID": "35"
+        },
+        {
+          "text": "Who gives the ibis wisdom\nor gives the rooster understanding?",
+          "ID": "36",
+          "comments": [
+            "That is, wisdom about the flooding of the Nile",
+            "That is, understanding of when to crow; the meaning of the Hebrew for this verse is uncertain."
+          ]
+        },
+        {
+          "text": "Who has the wisdom to count the clouds?\nWho can tip over the water jars of the heavens",
+          "ID": "37"
+        },
+        {
+          "text": "when the dust becomes hard\nand the clods of earth stick together?",
+          "ID": "38"
+        },
+        {
+          "text": "“Do you hunt the prey for the lioness\nand satisfy the hunger of the lions",
+          "ID": "39"
+        },
+        {
+          "text": "when they crouch in their dens\nor lie in wait in a thicket?",
+          "ID": "40"
+        },
+        {
+          "text": "Who provides food for the raven\nwhen its young cry out to God\nand wander about for lack of food?",
+          "ID": "41"
+        }
+      ],
+      "ID": "OT:JOB.38",
+      "name": "Job 38"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“Do you know when the mountain goats give birth?\nDo you watch when the doe bears her fawn?",
+          "ID": "1"
+        },
+        {
+          "text": "Do you count the months till they bear?\nDo you know the time they give birth?",
+          "ID": "2"
+        },
+        {
+          "text": "They crouch down and bring forth their young;\ntheir labor pains are ended.",
+          "ID": "3"
+        },
+        {
+          "text": "Their young thrive and grow strong in the wilds;\nthey leave and do not return.",
+          "ID": "4"
+        },
+        {
+          "text": "“Who let the wild donkey go free?\nWho untied its ropes?",
+          "ID": "5"
+        },
+        {
+          "text": "I gave it the wasteland as its home,\nthe salt flats as its habitat.",
+          "ID": "6"
+        },
+        {
+          "text": "It laughs at the commotion in the town;\nit does not hear a driver’s shout.",
+          "ID": "7"
+        },
+        {
+          "text": "It ranges the hills for its pasture\nand searches for any green thing.",
+          "ID": "8"
+        },
+        {
+          "text": "“Will the wild ox consent to serve you?\nWill it stay by your manger at night?",
+          "ID": "9"
+        },
+        {
+          "text": "Can you hold it to the furrow with a harness?\nWill it till the valleys behind you?",
+          "ID": "10"
+        },
+        {
+          "text": "Will you rely on it for its great strength?\nWill you leave your heavy work to it?",
+          "ID": "11"
+        },
+        {
+          "text": "Can you trust it to haul in your grain\nand bring it to your threshing floor?",
+          "ID": "12"
+        },
+        {
+          "text": "“The wings of the ostrich flap joyfully,\nthough they cannot compare\nwith the wings and feathers of the stork.",
+          "ID": "13"
+        },
+        {
+          "text": "She lays her eggs on the ground\nand lets them warm in the sand,",
+          "ID": "14"
+        },
+        {
+          "text": "unmindful that a foot may crush them,\nthat some wild animal may trample them.",
+          "ID": "15"
+        },
+        {
+          "text": "She treats her young harshly, as if they were not hers;\nshe cares not that her labor was in vain,",
+          "ID": "16"
+        },
+        {
+          "text": "for God did not endow her with wisdom\nor give her a share of good sense.",
+          "ID": "17"
+        },
+        {
+          "text": "Yet when she spreads her feathers to run,\nshe laughs at horse and rider.",
+          "ID": "18"
+        },
+        {
+          "text": "“Do you give the horse its strength\nor clothe its neck with a flowing mane?",
+          "ID": "19"
+        },
+        {
+          "text": "Do you make it leap like a locust,\nstriking terror with its proud snorting?",
+          "ID": "20"
+        },
+        {
+          "text": "It paws fiercely, rejoicing in its strength,\nand charges into the fray.",
+          "ID": "21"
+        },
+        {
+          "text": "It laughs at fear, afraid of nothing;\nit does not shy away from the sword.",
+          "ID": "22"
+        },
+        {
+          "text": "The quiver rattles against its side,\nalong with the flashing spear and lance.",
+          "ID": "23"
+        },
+        {
+          "text": "In frenzied excitement it eats up the ground;\nit cannot stand still when the trumpet sounds.",
+          "ID": "24"
+        },
+        {
+          "text": "At the blast of the trumpet it snorts, ‘Aha!’\nIt catches the scent of battle from afar,\nthe shout of commanders and the battle cry.",
+          "ID": "25"
+        },
+        {
+          "text": "“Does the hawk take flight by your wisdom\nand spread its wings toward the south?",
+          "ID": "26"
+        },
+        {
+          "text": "Does the eagle soar at your command\nand build its nest on high?",
+          "ID": "27"
+        },
+        {
+          "text": "It dwells on a cliff and stays there at night;\na rocky crag is its stronghold.",
+          "ID": "28"
+        },
+        {
+          "text": "From there it looks for food;\nits eyes detect it from afar.",
+          "ID": "29"
+        },
+        {
+          "text": "Its young ones feast on blood,\nand where the slain are, there it is.”",
+          "ID": "30"
+        }
+      ],
+      "ID": "OT:JOB.39",
+      "name": "Job 39"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "The Lord said to Job:",
+          "ID": "1"
+        },
+        {
+          "text": "“Will the one who contends with the Almighty correct him?\nLet him who accuses God answer him!”",
+          "ID": "2"
+        },
+        {
+          "text": "Then Job answered the Lord:",
+          "ID": "3"
+        },
+        {
+          "text": "“I am unworthy—how can I reply to you?\nI put my hand over my mouth.",
+          "ID": "4"
+        },
+        {
+          "text": "I spoke once, but I have no answer—\ntwice, but I will say no more.”",
+          "ID": "5"
+        },
+        {
+          "text": "Then the Lord spoke to Job out of the storm:",
+          "ID": "6"
+        },
+        {
+          "text": "“Brace yourself like a man;\nI will question you,\nand you shall answer me.",
+          "ID": "7"
+        },
+        {
+          "text": "“Would you discredit my justice?\nWould you condemn me to justify yourself?",
+          "ID": "8"
+        },
+        {
+          "text": "Do you have an arm like God’s,\nand can your voice thunder like his?",
+          "ID": "9"
+        },
+        {
+          "text": "Then adorn yourself with glory and splendor,\nand clothe yourself in honor and majesty.",
+          "ID": "10"
+        },
+        {
+          "text": "Unleash the fury of your wrath,\nlook at all who are proud and bring them low,",
+          "ID": "11"
+        },
+        {
+          "text": "look at all who are proud and humble them,\ncrush the wicked where they stand.",
+          "ID": "12"
+        },
+        {
+          "text": "Bury them all in the dust together;\nshroud their faces in the grave.",
+          "ID": "13"
+        },
+        {
+          "text": "Then I myself will admit to you\nthat your own right hand can save you.",
+          "ID": "14"
+        },
+        {
+          "text": "“Look at Behemoth,\nwhich I made along with you\nand which feeds on grass like an ox.",
+          "ID": "15"
+        },
+        {
+          "text": "What strength it has in its loins,\nwhat power in the muscles of its belly!",
+          "ID": "16"
+        },
+        {
+          "text": "Its tail sways like a cedar;\nthe sinews of its thighs are close-knit.",
+          "ID": "17"
+        },
+        {
+          "text": "Its bones are tubes of bronze,\nits limbs like rods of iron.",
+          "ID": "18"
+        },
+        {
+          "text": "It ranks first among the works of God,\nyet its Maker can approach it with his sword.",
+          "ID": "19"
+        },
+        {
+          "text": "The hills bring it their produce,\nand all the wild animals play nearby.",
+          "ID": "20"
+        },
+        {
+          "text": "Under the lotus plants it lies,\nhidden among the reeds in the marsh.",
+          "ID": "21"
+        },
+        {
+          "text": "The lotuses conceal it in their shadow;\nthe poplars by the stream surround it.",
+          "ID": "22"
+        },
+        {
+          "text": "A raging river does not alarm it;\nit is secure, though the Jordan should surge against its mouth.",
+          "ID": "23"
+        },
+        {
+          "text": "Can anyone capture it by the eyes,\nor trap it and pierce its nose?",
+          "ID": "24"
+        }
+      ],
+      "ID": "OT:JOB.40",
+      "name": "Job 40"
+    },
+    {
+      "title": null,
+      "text": [
+        {
+          "text": "“Can you pull in Leviathan with a fishhook\nor tie down its tongue with a rope?",
+          "ID": "1",
+          "comments": [
+            "In Hebrew texts 41:1-8 is numbered 40:25-32, and 41:9-34 is numbered 41:1-26."
+          ]
+        },
+        {
+          "text": "Can you put a cord through its nose\nor pierce its jaw with a hook?",
+          "ID": "2"
+        },
+        {
+          "text": "Will it keep begging you for mercy?\nWill it speak to you with gentle words?",
+          "ID": "3"
+        },
+        {
+          "text": "Will it make an agreement with you\nfor you to take it as your slave for life?",
+          "ID": "4"
+        },
+        {
+          "text": "Can you make a pet of it like a bird\nor put it on a leash for the young women in your house?",
+          "ID": "5"
+        },
+        {
+          "text": "Will traders barter for it?\nWill they divide it up among the merchants?",
+          "ID": "6"
+        },
+        {
+          "text": "Can you fill its hide with harpoons\nor its head with fishing spears?",
+          "ID": "7"
+        },
+        {
+          "text": "If you lay a hand on it,\nyou will remember the struggle and never do it again!",
+          "ID": "8"
+        },
+        {
+          "text": "Any hope of subduing it is false;\nthe mere sight of it is overpowering.",
+          "ID": "9"
+        },
+        {
+          "text": "No one is fierce enough to rouse it.\nWho then is able to stand against me?",
+          "ID": "10"
+        },
+        {
+          "text": "Who has a claim against me that I must pay?\nEverything under heaven belongs to me.",
+          "ID": "11"
+        },
+        {
+          "text": "“I will not fail to speak of Leviathan’s limbs,\nits strength and its graceful form.",
+          "ID": "12"
+        },
+        {
+          "text": "Who can strip off its outer coat?\nWho can penetrate its double coat of armor?",
+          "ID": "13",
+          "comments": [
+            "Septuagint; Hebrew double bridle"
+          ]
+        },
+        {
+          "text": "Who dares open the doors of its mouth,\nringed about with fearsome teeth?",
+          "ID": "14"
+        },
+        {
+          "text": "Its back has rows of shields\ntightly sealed together;",
+          "ID": "15",
+          "comments": [
+            "Or Its pride is its"
+          ]
+        },
+        {
+          "text": "each is so close to the next\nthat no air can pass between.",
+          "ID": "16"
+        },
+        {
+          "text": "They are joined fast to one another;\nthey cling together and cannot be parted.",
+          "ID": "17"
+        },
+        {
+          "text": "Its snorting throws out flashes of light;\nits eyes are like the rays of dawn.",
+          "ID": "18"
+        },
+        {
+          "text": "Flames stream from its mouth;\nsparks of fire shoot out.",
+          "ID": "19"
+        },
+        {
+          "text": "Smoke pours from its nostrils\nas from a boiling pot over burning reeds.",
+          "ID": "20"
+        },
+        {
+          "text": "Its breath sets coals ablaze,\nand flames dart from its mouth.",
+          "ID": "21"
+        },
+        {
+          "text": "Strength resides in its neck;\ndismay goes before it.",
+          "ID": "22"
+        },
+        {
+          "text": "The folds of its flesh are tightly joined;\nthey are firm and immovable.",
+          "ID": "23"
+        },
+        {
+          "text": "Its chest is hard as rock,\nhard as a lower millstone.",
+          "ID": "24"
+        },
+        {
+          "text": "When it rises up, the mighty are terrified;\nthey retreat before its thrashing.",
+          "ID": "25"
+        },
+        {
+          "text": "The sword that reaches it has no effect,\nnor does the spear or the dart or the javelin.",
+          "ID": "26"
+        },
+        {
+          "text": "Iron it treats like straw\nand bronze like rotten wood.",
+          "ID": "27"
+        },
+        {
+          "text": "Arrows do not make it flee;\nslingstones are like chaff to it.",
+          "ID": "28"
+        },
+        {
+          "text": "A club seems to it but a piece of straw;\nit laughs at the rattling of the lance.",
+          "ID": "29"
+        },
+        {
+          "text": "Its undersides are jagged potsherds,\nleaving a trail in the mud like a threshing sledge.",
+          "ID": "30"
+        },
+        {
+          "text": "It makes the depths churn like a boiling caldron\nand stirs up the sea like a pot of ointment.",
+          "ID": "31"
+        },
+        {
+          "text": "It leaves a glistening wake behind it;\none would think the deep had white hair.",
+          "ID": "32"
+        },
+        {
+          "text": "Nothing on earth is its equal—\na creature without fear.",
+          "ID": "33"
+        },
+        {
+          "text": "It looks down on all that are haughty;\nit is king over all that are proud.”",
+          "ID": "34"
+        }
+      ],
+      "ID": "OT:JOB.41",
+      "name": "Job 41"
+    },
+    {
+      "title": "Epilogue",
+      "text": [
+        {
+          "text": "Then Job replied to the Lord:",
+          "ID": "1"
+        },
+        {
+          "text": "“I know that you can do all things;\nno purpose of yours can be thwarted.",
+          "ID": "2"
+        },
+        {
+          "text": "You asked, ‘Who is this that obscures my plans without knowledge?’\nSurely I spoke of things I did not understand,\nthings too wonderful for me to know.",
+          "ID": "3"
+        },
+        {
+          "text": "“You said, ‘Listen now, and I will speak;\nI will question you,\nand you shall answer me.’",
+          "ID": "4"
+        },
+        {
+          "text": "My ears had heard of you\nbut now my eyes have seen you.",
+          "ID": "5"
+        },
+        {
+          "text": "Therefore I despise myself\nand repent in dust and ashes.”",
+          "ID": "6"
+        },
+        {
+          "text": "After the Lord had said these things to Job, he said to Eliphaz the Temanite, “I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has.",
+          "ID": "7"
+        },
+        {
+          "text": "So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken the truth about me, as my servant Job has.”",
+          "ID": "8"
+        },
+        {
+          "text": "So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the Lord told them; and the Lord accepted Job’s prayer.",
+          "ID": "9"
+        },
+        {
+          "text": "After Job had prayed for his friends, the Lord restored his fortunes and gave him twice as much as he had before.",
+          "ID": "10"
+        },
+        {
+          "text": "All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the Lord had brought on him, and each one gave him a piece of silver and a gold ring.",
+          "ID": "11",
+          "comments": [
+            "Hebrew him a kesitah; a kesitah was a unit of money of unknown weight and value."
+          ]
+        },
+        {
+          "text": "The Lord blessed the latter part of Job’s life more than the former part. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys.",
+          "ID": "12"
+        },
+        {
+          "text": "And he also had seven sons and three daughters.",
+          "ID": "13"
+        },
+        {
+          "text": "The first daughter he named Jemimah, the second Keziah and the third Keren-Happuch.",
+          "ID": "14"
+        },
+        {
+          "text": "Nowhere in all the land were there found women as beautiful as Job’s daughters, and their father granted them an inheritance along with their brothers.",
+          "ID": "15"
+        },
+        {
+          "text": "After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation.",
+          "ID": "16"
+        },
+        {
+          "text": "And so Job died, an old man and full of years.",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:JOB.42",
+      "name": "Job 42"
+    }
+  ],
+  "ID": "OT:JOB(NIV)",
+  "name": "Job"
+}
